@@ -25,3 +25,4 @@ Tanja's feedback (2026-10-15), applied to the template, keep it for every deck:
 - Only claim offers the lead's own site shows (no "4K" for waipu.tv).
 - Number sources: +17% category subscriptions, +18% streaming activity (up to), 86% lower email cost, 13% multi-content subscriptions: Tanja's `20260909-Flytxt-UseCase-for-waiputv.pptx` slide 6 ("comparable OTT engagement programme"). 13.6x conversion, 86% send cost: Overview 2026 slide 11 (Tier-1 African MNO). 28% churn: Overview slide 11 (multi-market European telco). Vodafone 8.6% / 3.6% / 200M: waipu.tv pptx slide 4.
 - Apply her feedback verbatim, no own rewording on top.
+- Client logos (2026-10-16): never white-filtered, always original brand colors on a white tile (MTN on its yellow #ffcb05), in the marquee and on the slide 4 cards. Check every new logo in a render.
