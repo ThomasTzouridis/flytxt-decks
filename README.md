@@ -7,7 +7,7 @@ Screenshot and logo of the lead site: `py "..\..\3DforScience\_src\tools\shot.py
 
 Spec fields (`_src/specs/<slug>.json`): slug, name, first, company, site (caption under the screenshot), logo, logo_color (true = keep the logo's colors instead of the white filter, e.g. waipu.tv), shot, headline (cover), saw[3] (may contain `<b>`), help_intro, cases[3] {head, text, kpi, kpi_label}, call_url (default Tanja's Calendly), linkedin.
 
-Slides: 1 cover (headline, prepared for, client logos, Next pill), 2 What we saw at {Company} (screenshot + 3 observations), 3 How we could help (3 use cases + one line on the agentic loop), 4 Who runs on Flytxt (fixed), 5 Who we are (fixed: facts, awards, Gartner disclaimer, EU team), 6 Virtual coffee or tea (Tanja's invitation letter, Calendly button, Tanja's card).
+Slides: 1 cover (headline, prepared for, client logos, Next pill), 2 What we saw at {Company} (screenshot + 3 observations), 3 How we could help (3 use cases + one line on the agentic loop), 4 Who runs on Flytxt (fixed), 5 Who we are (fixed: facts, awards, Gartner logo, EU team), 6 Virtual coffee or tea (Tanja's invitation letter verbatim, Book a call button to Calendly, Tanja's card).
 
 Assets: `assets/` (Flytxt white logo, backgrounds and robot from the Flytxt pptx, client logos from flytxt.ai, awards, team photos from LinkedIn 800px). Results numbers come from `Flytxt_One_Pager_Final.pdf` and `Flytxt Overview_2026.pptx`.
 
@@ -19,8 +19,9 @@ Tanja's feedback (2026-10-15), applied to the template, keep it for every deck:
 - waipu.tv sells only to existing customers: say cross-sell, never winback or acquisition.
 - No product names (NiYA-X, NEON-dX) anywhere, the EU team does not use them.
 - Locations: Amsterdam, Dubai, India (never Mumbai or Trivandrum).
-- Gartner wording: "Challenger position in the Gartner® Magic Quadrant™" plus the non-endorsement line. No Gartner logo until Flytxt supplies its licensed badge (Gartner brand rules).
-- No Sense › Reason › Decide › Act › Learn pills; her line: "One smart agentic analytics loop on top of your existing marketing tech stack. No IT replacement, but seamless integration. First pilot live in 8 to 12 weeks."
+- Gartner: "Challenger position in the Gartner® Magic Quadrant™" with the Gartner logo (`assets/awards/gartner.svg`, original color on a white tile).
+- No Sense › Reason › Decide › Act › Learn pills; her line verbatim: "One smart agentic analytics loop on top of your existing Marketing Tech stack. No IT replacement, but seamless integration. First pilot live in 8-12 weeks."
 - Slide 6 is her softer letter ("Virtual coffee or tea, {First}?"), button to https://calendly.com/tanja-morsch-flytxt/30min.
 - Only claim offers the lead's own site shows (no "4K" for waipu.tv).
 - Number sources: +17% category subscriptions, +18% streaming activity (up to), 86% lower email cost, 13% multi-content subscriptions: Tanja's `20260909-Flytxt-UseCase-for-waiputv.pptx` slide 6 ("comparable OTT engagement programme"). 13.6x conversion, 86% send cost: Overview 2026 slide 11 (Tier-1 African MNO). 28% churn: Overview slide 11 (multi-market European telco). Vodafone 8.6% / 3.6% / 200M: waipu.tv pptx slide 4.
+- Apply her feedback verbatim, no own rewording on top.
