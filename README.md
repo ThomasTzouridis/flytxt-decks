@@ -7,7 +7,7 @@ Screenshot and logo of the lead site: `py "..\..\3DforScience\_src\tools\shot.py
 
 Spec fields (`_src/specs/<slug>.json`): slug, name, first, company, site (caption under the screenshot), logo, logo_color (true = keep the logo's colors instead of the white filter, e.g. waipu.tv), shot, headline (cover), saw[3] (may contain `<b>`), help_intro, cases[3] {head, text, kpi, kpi_label}, call_url (default Tanja's Calendly), linkedin.
 
-Slides: 1 cover (headline, prepared for, client logos, Next pill), 2 What we saw at {Company} (screenshot + 3 observations), 3 How we could help (3 use cases + one line on the agentic loop), 4 Who runs on Flytxt (fixed), 5 Who we are (fixed: facts, awards, Gartner logo, EU team), 6 Virtual coffee or tea (Tanja's invitation letter verbatim, Book a call button to Calendly, Tanja's card).
+Slides: 1 cover (headline, prepared for, client logos, Next pill), 2 What we saw at {Company} (screenshot + 3 observations), 3 How we could help (3 use cases + one line on the agentic loop), 4 More of our work (fixed), 5 Who we are (fixed: facts, awards, Gartner logo, EU team), 6 Virtual coffee or tea (Tanja's invitation letter verbatim, Book a call button to Calendly, Tanja's card).
 
 Assets: `assets/` (Flytxt white logo, backgrounds and robot from the Flytxt pptx, client logos from flytxt.ai, awards, team photos from LinkedIn 800px). Results numbers come from `Flytxt_One_Pager_Final.pdf` and `Flytxt Overview_2026.pptx`.
 
