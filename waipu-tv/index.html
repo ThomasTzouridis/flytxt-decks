@@ -100,90 +100,111 @@ body[data-s="1"] #bd .o1{transform:translate(30vw,10vh)}  body[data-s="1"] #bd .
 .reveal .controls{color:var(--orange)}
 .reveal .progress{display:none}
 
-/* ===== phone deck (html.phone, set in head for screens up to 700px): one slide per screen, swipe or the bar at the bottom to move ===== */
+/* ===== phone deck (html.phone, set in head for screens up to 700px): exactly one slide per screen, nothing scrolls inside a slide.
+   Swipe or the bar at the bottom moves one slide; the phoneDeck() fit zooms a slide down slightly if a very short screen still overflows. ===== */
 .pnav{display:none}
 html.phone,html.phone body{height:100%;overflow:hidden;-webkit-text-size-adjust:100%}
 html.phone .reveal{position:relative;z-index:1;width:auto;height:auto}
-html.phone .reveal .slides{position:static;width:auto;height:calc(100dvh - 56px - env(safe-area-inset-bottom,0px));overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scroll-behavior:smooth}
+html.phone .reveal .slides{position:static;width:auto;height:calc(100dvh - 52px - env(safe-area-inset-bottom,0px));overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scrollbar-width:none}
+html.phone .reveal .slides::-webkit-scrollbar{display:none}
 html.phone .reveal .slides>section.stack{display:block;position:static;width:auto;height:auto}
-html.phone .reveal .slides section.sl{display:flex;flex-direction:column;position:relative;width:auto;height:auto;min-height:calc(100dvh - 56px - env(safe-area-inset-bottom,0px));padding:18px 18px 16px;box-sizing:border-box;overflow:visible;scroll-snap-align:start;border-bottom:1px solid rgba(255,255,255,.08)}
-html.phone .sl>*{min-width:0;max-width:100%}
+html.phone .reveal .slides section.sl{display:flex;flex-direction:column;position:relative;width:auto;height:calc(100dvh - 52px - env(safe-area-inset-bottom,0px));padding:14px 16px 12px;box-sizing:border-box;overflow:hidden;scroll-snap-align:start;scroll-snap-stop:always}
+html.phone .sl>*{min-width:0;max-width:100%;flex:none}
+/* slides 2 to 6: content centred in the space under the logo row (the cover centres itself) */
+html.phone .sl:not([data-id="s1"])>.top+*{margin-top:auto}
+html.phone .sl:not([data-id="s1"])::after{content:"";flex:none;margin-bottom:auto}
 html.phone .a,html.phone .next.a{opacity:1;transform:none;transition:none}
-html.phone .blk,html.phone .card,html.phone .next{position:relative!important;left:auto!important;top:auto!important;width:auto!important;height:auto!important}
-html.phone .top{position:static;height:auto;padding:0;margin-bottom:20px;flex:none}
-html.phone .top img{height:24px}
+html.phone .blk,html.phone .card{position:relative!important;left:auto!important;top:auto!important;width:auto!important;height:auto!important}
+html.phone .next{display:none}
+html.phone .top{position:static;height:auto;padding:0;margin-bottom:12px}
+html.phone .top img{height:20px}
 html.phone .top .tag{display:none}
-html.phone h1{font-size:28px;line-height:1.2}
-html.phone h2{font-size:25px}
-html.phone p,html.phone li{font-size:15px;line-height:1.5}
-html.phone .rule{width:64px;height:3px;margin-top:14px}
-html.phone .lbl{font-size:10.5px;letter-spacing:1.3px}
-html.phone .next{align-self:center;transform:none;margin:22px 0 4px;height:42px;padding:0 20px;font-size:14px;flex:none;max-width:100%;box-sizing:border-box;white-space:normal;text-align:center}
-html.phone .next .ar{font-size:18px}
-/* cover */
+html.phone h1{font-size:27px;line-height:1.2}
+html.phone h2{font-size:21px;line-height:1.2}
+html.phone p,html.phone li{font-size:13.5px;line-height:1.45}
+html.phone .rule{width:56px;height:3px;margin-top:12px}
+html.phone .lbl{font-size:9.5px;letter-spacing:1.2px}
+/* 1 cover: vertically centred */
 html.phone [data-id="s1"] .top{margin-bottom:auto}
-html.phone [data-id="s1"] .top>div{gap:14px!important}
-html.phone [data-id="s1"] .top>div>span{height:24px!important}
-html.phone [data-id="s1"] .top>div>img+span+img{max-width:120px!important}
-html.phone [data-id="s1"] h1{margin-top:28px}
-html.phone .meta{font-size:15px;margin-top:22px}
-html.phone .note{font-size:13.5px;margin-top:10px}
-html.phone [data-id="s1"] .lbl{margin-top:28px}
-html.phone .marq{margin-top:10px;flex:none}
-html.phone .marq .track img{height:20px;padding:6px 10px;margin:0 6px}
-html.phone .marq .track img[src$="vodafone.png"]{height:32px;padding:0 4px}
-html.phone .marq .track img[src$="orange.svg"],html.phone .marq .track img[src$="telecel.svg"]{height:26px;padding:3px 8px}
-html.phone .contact{font-size:11.5px;margin-top:18px}
-html.phone [data-id="s1"] .next{margin-top:auto}
-/* what we saw */
-html.phone [data-id="s2"] .shot{margin-top:16px;aspect-ratio:16/10;flex:none}
-html.phone [data-id="s2"] .lbl{margin-top:8px}
-html.phone [data-id="s2"] .blk p{margin-bottom:12px!important}
-html.phone [data-id="s2"] .shot+.lbl+.blk{margin-top:16px}
-/* how we could help + more of our work: cards stacked */
-html.phone .card{margin-top:12px;padding:16px 18px;flex:none}
-html.phone .card h3{font-size:17px}
-html.phone .card p{font-size:14px}
-html.phone .card .kpi[style*="absolute"]{position:static!important;margin-top:12px}
-html.phone .kpi{font-size:32px}
-html.phone .card+.blk{margin-top:16px}
-html.phone .card+.blk p{font-size:14px!important}
-html.phone .pc{padding:0}
-html.phone .pc .ph{height:96px}
-html.phone .pc .ph.lg img{height:58px}
-html.phone .pc .ph.lg.mtn img{height:46px}
-html.phone .pc .bd{padding:14px 18px 16px}
-html.phone .pc .kpi{font-size:30px}
-html.phone .card+.lbl{margin-top:14px;line-height:1.6}
-/* who we are */
-html.phone [data-id="s5"] .blk{margin-top:16px}
-html.phone [data-id="s5"] .top+.blk{margin-top:0}
-html.phone [data-id="s5"] .blk p+p{margin-top:12px!important}
-html.phone .aw>div{flex-wrap:wrap;gap:10px!important}
-html.phone .aw img{height:64px!important}
-html.phone .aw .gt{height:64px!important;width:auto!important;flex:1 1 100%;padding:0 14px!important}
-html.phone .aw .gt img{height:20px!important}
-html.phone .aw .gt small{font-size:11.5px!important;margin-top:6px!important}
-html.phone .team{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 12px}
+html.phone [data-id="s1"] .top>div{gap:12px!important}
+html.phone [data-id="s1"] .top>div>span{height:20px!important}
+html.phone [data-id="s1"] .top>div>img+span+img{max-width:110px!important}
+html.phone .meta{font-size:14px;margin-top:20px}
+html.phone .note{font-size:12.5px;margin-top:8px}
+html.phone [data-id="s1"] .lbl{margin-top:26px}
+html.phone .marq{margin-top:10px}
+html.phone .marq .track img{height:18px;padding:5px 9px;margin:0 5px}
+html.phone .marq .track img[src$="vodafone.png"]{height:28px;padding:0 4px}
+html.phone .marq .track img[src$="orange.svg"],html.phone .marq .track img[src$="telecel.svg"]{height:24px;padding:2px 7px}
+html.phone .contact{font-size:11px;margin-top:16px;margin-bottom:auto}
+/* 2 what we saw */
+html.phone [data-id="s2"] .shot{margin-top:10px;height:150px!important;border-radius:8px}
+html.phone [data-id="s2"] .shot+.lbl{margin-top:6px}
+html.phone [data-id="s2"] .shot+.lbl+.blk{margin-top:10px}
+html.phone [data-id="s2"] .blk p{margin-bottom:9px!important}
+/* 3 how we could help: compact cards, KPI on one line */
+html.phone [data-id="s3"] .top+.blk p{font-size:12.5px;margin-top:4px!important}
+html.phone .card{margin-top:8px;padding:10px 13px;border-radius:10px}
+html.phone [data-id="s3"] .card .lbl{display:none}
+html.phone .card h3{font-size:14.5px;margin-bottom:3px}
+html.phone .card p{font-size:12.5px;line-height:1.4}
+html.phone [data-id="s3"] .card .kpi{position:static!important;display:flex;align-items:baseline;gap:8px;font-size:21px;margin:6px 0 0}
+html.phone [data-id="s3"] .card .kpi small{display:inline;margin:0;font-size:11.5px;line-height:1.25}
+html.phone .card+.blk{margin-top:10px}
+html.phone .card+.blk p{font-size:12px!important;line-height:1.4}
+/* 4 more of our work: brand tile left, two KPIs side by side */
+html.phone [data-id="s4"] .top+.blk p{font-size:12.5px;margin-top:4px!important}
+html.phone .pc{display:grid;grid-template-columns:64px 1fr;padding:0}
+html.phone .pc .ph{height:auto;min-height:100%;background:#fff;display:flex;align-items:center;justify-content:center}
+html.phone .pc .ph>img{display:none}
+html.phone .pc .ph:after{display:none}
+html.phone .pc .ph .brand{position:static}
+html.phone .pc .ph .brand img{height:34px!important;max-width:56px;padding:0!important}
+html.phone .pc .ph.lg>img{display:block;width:40px;height:40px}
+html.phone .pc .ph.lg.mtn>img{width:52px;height:auto}
+html.phone .pc .bd{display:grid;grid-template-columns:auto 1fr;gap:4px 18px;padding:9px 12px 10px}
+html.phone .pc .bd .lbl,html.phone .pc .bd p{grid-column:1/3}
+html.phone .pc .kpi{font-size:21px!important;margin:2px 0 0!important}
+html.phone .pc .kpi small{font-size:10.5px;margin-top:2px}
+html.phone .pc .bd p{font-size:11.5px!important;margin-top:2px!important;line-height:1.35}
+html.phone .card+.lbl{margin-top:10px;line-height:1.55;font-size:9px}
+/* 5 who we are */
+html.phone [data-id="s5"] .blk{margin-top:12px}
+html.phone [data-id="s5"] .top+.blk{margin-top:auto}
+html.phone [data-id="s5"] .blk p{font-size:12.5px;line-height:1.42}
+html.phone [data-id="s5"] .blk p+p{margin-top:8px!important}
+html.phone .aw .lbl,html.phone [data-id="s5"] .team{margin-bottom:8px!important}
+html.phone .aw>div{gap:6px!important}
+html.phone .aw img{height:50px!important;border-radius:5px!important}
+html.phone .aw .gt{height:50px!important;width:auto!important;flex:1;min-width:0;padding:0 8px!important}
+html.phone .aw .gt img{height:15px!important}
+html.phone .aw .gt small{font-size:8.5px!important;line-height:1.25!important;margin-top:4px!important}
+html.phone .team{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
 html.phone .team div{width:auto}
-html.phone .team img{width:72px;height:72px}
-/* let's talk */
-html.phone [data-id="s6"] h1{font-size:26px!important}
-html.phone [data-id="s6"] .blk p{font-size:15px!important;margin-top:10px!important}
-html.phone [data-id="s6"] .blk{margin-top:18px}
-html.phone [data-id="s6"] .top+.blk{margin-top:0}
-html.phone .cta2{flex-direction:column;gap:10px}
-html.phone .btn.cup{justify-content:center;font-size:15.5px;padding:10px 20px}
-html.phone .btn.cup svg{width:32px;height:32px}
-html.phone .tcard{padding:18px!important;gap:16px!important}
-html.phone .tcard img{width:76px!important;height:76px!important}
-html.phone [data-id="s6"] .contact{margin-top:16px;padding-bottom:4px}
+html.phone .team img{width:52px;height:52px;border-width:2px;margin-bottom:5px}
+html.phone .team b{font-size:10.5px}
+html.phone .team small{font-size:9px;line-height:1.25}
+/* 6 let's talk: letter, buttons, compact card; the marquee is on the cover already */
+html.phone [data-id="s6"] h1{font-size:23px!important}
+html.phone [data-id="s6"] .rule{margin-top:10px!important}
+html.phone [data-id="s6"] .blk p{font-size:13.5px!important;margin-top:8px!important}
+html.phone [data-id="s6"] .blk{margin-top:14px}
+html.phone [data-id="s6"] .top+.blk{margin-top:auto}
+html.phone [data-id="s6"] .marq,html.phone [data-id="s6"] .contact{display:none}
+html.phone .cta2{flex-direction:column;gap:8px}
+html.phone .btn.cup{justify-content:center;font-size:15px;padding:7px 18px}
+html.phone .btn.cup svg{width:30px;height:30px}
+html.phone .tcard{padding:10px 14px!important;gap:14px!important;border-radius:12px!important}
+html.phone .tcard img{width:54px!important;height:54px!important}
+html.phone .tcard b{font-size:15px!important}
+html.phone .tcard small{margin:2px 0 4px!important;font-size:11.5px!important}
+html.phone .tcard p{font-size:12px!important;line-height:1.5!important}
 /* bottom bar */
-html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0px);background:#00141f;border-top:1px solid rgba(255,255,255,.12);z-index:50}
-html.phone .pb{width:60px;height:42px;border:0;border-radius:21px;background:var(--orange);color:#fff;font:700 26px/42px Montserrat,sans-serif;cursor:pointer;padding:0}
+html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0px);background:#00141f;border-top:1px solid rgba(255,255,255,.12);z-index:50}
+html.phone .pb{width:56px;height:38px;border:0;border-radius:19px;background:var(--orange);color:#fff;font:700 24px/38px Montserrat,sans-serif;cursor:pointer;padding:0}
 html.phone .pb[disabled]{opacity:.25}
 html.phone .pcnt{font:600 13px 'Open Sans',sans-serif;color:#fff;display:flex;align-items:center;gap:6px}
-html.phone .pcnt b{font:700 20px/1 Montserrat,sans-serif;color:var(--orange)}
+html.phone .pcnt b{font:700 19px/1 Montserrat,sans-serif;color:var(--orange)}
 html.phone .pd{display:flex;gap:5px;margin-left:8px}
 html.phone .pd i{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.3)}
 html.phone .pd i.on{background:var(--orange)}
@@ -296,8 +317,12 @@ html.phone .pd i.on{background:var(--orange)}
     function go(i){ i=Math.max(0,Math.min(sl.length-1,i)); sc.scrollTo({top:sl[i].offsetTop}); show(i); }
     bs.forEach(function(b){ b.addEventListener('click',function(){ go(cur + +b.dataset.d); }); });
     document.querySelectorAll('a.next').forEach(function(a){ a.addEventListener('click',function(e){ e.preventDefault(); go(sl.indexOf(a.closest('section.sl'))+1); }); });
-    /* slides can be taller than the screen: the current one is the last whose top is above 40% of the screen */
-    sc.addEventListener('scroll',function(){ var y=sc.scrollTop+sc.clientHeight*.4, i=0; sl.forEach(function(s,j){ if(s.offsetTop<=y) i=j; }); if(sc.scrollTop+sc.clientHeight>=sc.scrollHeight-2) i=sl.length-1; show(i); },{passive:true});
+    sc.addEventListener('scroll',function(){ show(Math.round(sc.scrollTop/sc.clientHeight)); },{passive:true});
+    /* very short screens: a slide that still overflows is zoomed down just enough to fit (never below 0.72) */
+    function fit(){ sl.forEach(function(s){ var kids=[].slice.call(s.children); kids.forEach(function(k){ k.style.zoom=''; });
+      for(var n=0;n<6&&s.scrollHeight>s.clientHeight+1;n++){ var cs=getComputedStyle(s), pad=parseFloat(cs.paddingTop)+parseFloat(cs.paddingBottom), z=+(kids[0].style.zoom||1);
+        var f=Math.max(.72,z*(s.clientHeight-pad)/(s.scrollHeight-pad)-.01); kids.forEach(function(k){ k.style.zoom=f; }); } }); if(cur>=0) sc.scrollTop=sl[cur].offsetTop; }
+    (document.fonts?document.fonts.ready:Promise.resolve()).then(fit); addEventListener('load',fit); addEventListener('resize',fit);
     var m=/#\/0\/(\d)/.exec(location.hash); show(0); if(m) go(+m[1]);
   }
 })();
