@@ -26,3 +26,8 @@ Tanja's feedback (2026-10-15), applied to the template, keep it for every deck:
 - Number sources: +17% category subscriptions, +18% streaming activity (up to), 86% lower email cost, 13% multi-content subscriptions: Tanja's `20260909-Flytxt-UseCase-for-waiputv.pptx` slide 6 ("comparable OTT engagement programme"). 13.6x conversion, 86% send cost: Overview 2026 slide 11 (Tier-1 African MNO). 28% churn: Overview slide 11 (multi-market European telco). Vodafone 8.6% / 3.6% / 200M: waipu.tv pptx slide 4.
 - Apply her feedback verbatim, no own rewording on top.
 - Client logos (2026-10-16): never white-filtered, always original brand colors on a white tile (MTN on its yellow #ffcb05), in the marquee and on the slide 4 cards. Check every new logo in a render.
+
+Phones and Next buttons (2026-10-17, Tanja: 57 to 70% of LinkedIn is read on mobile, the deck was tiny on her phone, and the Next pills stopped working from slide 3 on touch screens):
+- Up to 700px wide the template switches to `html.phone` (set in the head, reveal.css disabled, Reveal not started): one readable slide per screen, continuous vertical scroll that snaps to each slide start, slides taller than the screen simply scroll on. Bottom bar with prev/next, counter and dots. Same pattern as Craze & Friends.
+- The Next pills are JS now (`Reveal.next()` on laptop and tablet, jump to the next slide on phones), no more `#/0/n` hash links.
+- Desktop layout is unchanged. Test phones at 390x844 and 360x640 with Playwright `is_mobile` + `has_touch` before every push.
