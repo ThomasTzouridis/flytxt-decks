@@ -1,0 +1,39 @@
+{
+"slug": "waipu-tv",
+"name": "Michael",
+"first": "Michael",
+"company": "waipu.tv",
+"site": "waipu.tv · Live TV streaming, Germany",
+"logo": "waipu-tv_logo1.svg",
+"shot": "waipu-tv_1.jpg",
+"headline": "Turn waipu.tv's viewing data into subscriptions that stay.",
+"saw": [
+"Your homepage sells <b>three plans and a Perfect Plus upgrade</b> to every visitor the same way, whether they come for Bundesliga or kids' channels.",
+"Once a viewer is inside the app, <b>what they watch, when they pause and which channels they never open</b> is the strongest signal you have for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+"Cross-sell, upsell and anti churn campaigns are <b>built by hand, per segment, per month</b>. The viewer who is about to leave this week gets the same offer as everyone else, or none at all."
+],
+"help_intro": "Three places where an AI that decides per viewer, not per segment, pays for itself in the first quarter.",
+"cases": [
+{
+"head": "Stop the cancellation before it happens",
+"text": "Causal churn signals per household from viewing patterns, pauses and support contacts. The right offer, channel and moment, picked for each viewer and tested continuously.",
+"kpi": "28%",
+"kpi_label": "lower churn, measured at Flytxt telecom clients"
+},
+{
+"head": "Upgrade to Perfect Plus when it fits",
+"text": "Next best plan and add-on per viewer, triggered by what they actually watch. No more blanket upgrade mails to people on the right plan already.",
+"kpi": "+17%",
+"kpi_label": "category subscriptions at an OTT client"
+},
+{
+"head": "Keep the catalogue in use, every week",
+"text": "Personal content and channel nudges in app, push and email, orchestrated so every viewer sees a reason to open waipu.tv again.",
+"kpi": "+18%",
+"kpi_label": "streaming activity at an OTT client"
+}
+],
+"call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+"linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone",
+"logo_color": true
+}

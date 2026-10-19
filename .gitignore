@@ -1,4 +1,5 @@
-_src/
 .DS_Store
 Thumbs.db
+__pycache__/
 _private/
+_src/auto/runs/
