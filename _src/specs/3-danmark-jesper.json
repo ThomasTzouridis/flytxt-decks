@@ -1,0 +1,38 @@
+{
+ "slug": "3-danmark-jesper",
+ "name": "Jesper",
+ "first": "Jesper",
+ "company": "3 Danmark",
+ "site": "3.dk · Mobile and broadband, Denmark",
+ "logo": "3-danmark-jesper_logo.png",
+ "shot": "3-danmark-jesper_shot.jpg",
+ "headline": "Turn 3 Danmark&rsquo;s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile and broadband plans, family offers, roaming and travel use with 3LikeHome, and phones, to every visitor the same way, whether they come for a 3Family plan or a new iPhone.",
+  "Once a customer is on the network, data use, roaming trips, TV streaming and home internet are the strongest signals you have for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all, even when they sit on a family plan."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per customer churn signals from data use, roaming trips and home internet usage. The right offer, channel and moment for each subscriber, tested continuously across mobile and broadband plans.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Move each customer to the right plan",
+   "text": "Next best plan, add-on or family bundle per customer, triggered by roaming trips, data use and what they already pay for. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the bundle in use, every week",
+   "text": "Personal nudges for TV streaming, roaming tips and 3LikeHome use, sent across email, SMS and push, so each customer gets a reason to use their plan again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
