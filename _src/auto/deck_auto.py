@@ -329,9 +329,10 @@ if spec is None:
     log['status'] = 'FAILED validation'; json.dump(log, open(os.path.join(work, 'run.json'), 'w'), indent=1); sys.exit('copy failed hard validation, one call only, no retry')
 
 # ---------- 4. spec + build ----------
-final = {'slug': slug, 'name': first, 'first': first, 'company': company, 'site': f"{domain} · {spec['site_tag']}", 'logo': logo_file, 'shot': shot_file,
-         'headline': spec['headline'], 'saw': spec['saw'], 'help_intro': spec['help_intro'],
-         'cases': [{'head': c['head'], 'text': c['text'], 'kpi': c['kpi'], 'kpi_label': c['kpi_label']} for c in spec['cases']],
+U = html.unescape  # build.py escapes every field except saw, so entities (&rsquo; ...) become real characters here
+final = {'slug': slug, 'name': first, 'first': first, 'company': company, 'site': f"{domain} · {U(spec['site_tag'])}", 'logo': logo_file, 'shot': shot_file,
+         'headline': U(spec['headline']), 'saw': spec['saw'], 'help_intro': U(spec['help_intro']),
+         'cases': [{'head': U(c['head']), 'text': U(c['text']), 'kpi': c['kpi'], 'kpi_label': c['kpi_label']} for c in spec['cases']],
          'call_url': 'https://calendly.com/tanja-morsch-flytxt/30min', 'linkedin': 'https://www.linkedin.com/in/tanja-morsch-weekone'}
 sp_path = os.path.join(SPECS, slug + '.json')
 json.dump(final, open(sp_path, 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
