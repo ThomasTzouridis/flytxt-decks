@@ -1,0 +1,38 @@
+{
+ "slug": "admiral-christoph",
+ "name": "Christoph",
+ "first": "Christoph",
+ "company": "Admiral",
+ "site": "admiral.ag · Sports betting and sportsbars, Austria",
+ "logo": "admiral-christoph_logo.svg",
+ "shot": "admiral-christoph_shot.jpg",
+ "headline": "Turn Admiral’s usage data into customers who stay.",
+ "saw": [
+  "Your homepage sells sports betting, games of chance and horse betting, along with promotions and 101 sportsbars, to every visitor in the same way, whether they arrive for the odds sheets or the nearest shop.",
+  "Once a customer is in your system, what they bet on, which games they play, and which promotions they ignore is the strongest signal you own. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month, across sports, games of chance and horse betting. A customer who stops betting this week gets the same promotion as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Lapse signals per customer from betting frequency, stakes and unclaimed promotions. The right offer, channel and moment, picked for each customer and tested continuously across sports and games of chance.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next best product",
+   "text": "Next best product per customer across sports, games of chance and horse betting. Targeted offers replace blanket promotion mails, and no offer goes to products they never open.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every customer betting, every week",
+   "text": "Personal nudges by email, newsletter and in-shop offers, timed to each customer’s play. Each customer gets a reason to come back to the odds sheets this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
