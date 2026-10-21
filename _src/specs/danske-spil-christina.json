@@ -1,0 +1,38 @@
+{
+ "slug": "danske-spil-christina",
+ "name": "Christina",
+ "first": "Christina",
+ "company": "Danske Spil",
+ "site": "danskespil.dk · Sport, casino and lottery, Denmark",
+ "logo": "danske-spil-christina_logo.svg",
+ "shot": "danske-spil-christina_shot.jpg",
+ "headline": "Turn Danske Spil’s purchase data into customers who stay.",
+ "saw": [
+  "Your homepage sells sport, casino, lottery and scratch cards to every visitor in the same way, whether they came for betting on sport or for a scratch card.",
+  "When customers log in or watch TV, what they play and when they return is the signal for the next offer and the next cancellation. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. A player who is about to stop this week gets the same offer as everyone else, or none at all, whether they play sport, casino or lottery."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Reach players before they cancel",
+   "text": "Per customer churn signals from logins, play patterns and streaming activity, with responsible play limits applied first. The right offer, channel and moment, picked for each customer.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product that fits",
+   "text": "Next best product per customer, from sport to casino to lottery, triggered by what they play or watch. No more blanket mails to people who already play that product.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer active, every week",
+   "text": "Personal streaming, TV and game nudges on site, by push and by email, orchestrated so every customer has a reason to come back this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
