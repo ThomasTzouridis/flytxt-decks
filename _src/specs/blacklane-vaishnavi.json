@@ -1,0 +1,38 @@
+{
+ "slug": "blacklane-vaishnavi",
+ "name": "Vaishnavi",
+ "first": "Vaishnavi",
+ "company": "Blacklane",
+ "site": "blacklane.com · Premium chauffeur service, Germany",
+ "logo": "blacklane-vaishnavi_logo.svg",
+ "shot": "blacklane-vaishnavi_shot.jpg",
+ "headline": "Turn Blacklane’s booking data into rides that come back.",
+ "saw": [
+  "Your homepage sells chauffeur rides for business and leisure in 60+ countries, leading with Corporate travel, simplified and Expect excellence. Every visitor, business traveller or weekend guest, sees the same story before they have said who they are.",
+  "Once a guest has booked, your own app and booking history show which routes repeat, which vehicle class they prefer and which accounts go quiet. That signal sits in analytics, not in the message the customer receives.",
+  "Promotions on the homepage, travel offers and business accounts are typically planned by hand, per segment, per month. The guest who is about to stop booking this week gets the same promotion as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Reach the guest before they stop booking",
+   "text": "Signals from booking gaps, repeat routes and app activity flag accounts drifting away. The right offer, channel and moment is picked per customer, across email, app and push.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match the next ride to each guest",
+   "text": "Next best service per customer, such as a higher vehicle class or a business account upgrade, triggered by how each guest actually books. No more blanket promotions to people already on the right service.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep corporate and leisure guests coming back",
+   "text": "Personal reminders and content in app, email and push, timed to each guest’s travel rhythm, so every account has a reason to book again between trips.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
