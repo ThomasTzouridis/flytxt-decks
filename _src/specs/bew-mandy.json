@@ -1,0 +1,38 @@
+{
+ "slug": "bew-mandy",
+ "name": "Mandy",
+ "first": "Mandy",
+ "company": "BEW",
+ "site": "bew.berlin · District heating supplier, Berlin",
+ "logo": "bew-mandy_logo.svg",
+ "shot": "bew-mandy_shot.jpg",
+ "headline": "Turn BEW’s usage data into contracts that stay.",
+ "saw": [
+  "Your homepage sells district heating and energy for Berlin, with tariffs and promotions on the front page, and every visitor sees the same message, whether they are a new prospect or an existing customer looking for their account.",
+  "Once customers are in the portal, what they consume, when they change tariff and which promotions they ignore is your strongest signal for the next upgrade or cancellation. Today it sits in analytics, not in the message they receive.",
+  "Tariff, upsell and retention campaigns are built by hand, per segment, per month. The household that is about to cancel its heating contract this week gets the same letter as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per household signals from consumption, tariff changes and portal visits flag who is about to leave. Each one gets the right offer, channel and moment, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each customer to the right tariff",
+   "text": "Next best tariff or add-on per customer, triggered by what they consume and which promotions they ignore. No more blanket tariff letters to households already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer in the portal",
+   "text": "Personal reminders and consumption insights in the customer portal, email and mail, so every household has a reason to log in again before the heating season ends.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
