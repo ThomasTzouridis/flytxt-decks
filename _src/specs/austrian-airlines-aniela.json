@@ -1,0 +1,38 @@
+{
+ "slug": "austrian-airlines-aniela",
+ "name": "Aniela",
+ "first": "Aniela",
+ "company": "Austrian Airlines",
+ "site": "austrian.com · Airline and aviation, Austria",
+ "logo": "austrian-airlines-aniela_logo.png",
+ "shot": "austrian-airlines-aniela_shot.jpg",
+ "headline": "Turn Austrian Airlines’s booking data into trips that stay.",
+ "saw": [
+  "Most airline marketing reaches travellers through the same offers for business and leisure guests, so a frequent flyer and a first-time booker often see the same message on the same day.",
+  "The signal you already own is what each passenger books, changes, cancels, upgrades and flies, along with the routes and cabins they choose. Today that signal sits in analytics and booking reports, not in the message the passenger receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per month. The passenger who is about to switch to another carrier this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per passenger, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per passenger from booking changes, cancellations and long gaps between trips. The right offer, channel and moment, picked for each traveller and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next upgrade when it fits",
+   "text": "Next best fare, cabin or add-on per passenger, triggered by how they actually fly. No more blanket upgrade mails to travellers who already fly in the cabin they want.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every passenger engaged between trips",
+   "text": "Personal content, destination ideas and service nudges in the channels you already use, orchestrated so every passenger has a reason to engage with Austrian Airlines again between bookings.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
