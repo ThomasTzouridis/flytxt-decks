@@ -1,0 +1,38 @@
+{
+ "slug": "engie-thomas",
+ "name": "Thomas",
+ "first": "Thomas",
+ "company": "Engie",
+ "site": "engie-deutschland.de · Utilities provider, Germany",
+ "logo": "engie-thomas_logo.png",
+ "shot": "engie-thomas_shot.jpg",
+ "headline": "Turn Engie’s usage data into contracts that stay.",
+ "saw": [
+  "Across utilities, the same tariff and renewal messages usually reach every household in a group, whatever their consumption, payment history or contract end date.",
+  "The signal you already own is meter readings, consumption patterns and payment behaviour. Today that signal sits in billing and analytics systems, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The customer whose consumption just changed or whose contract ends next week gets the same offer as everyone else or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the contract ends",
+   "text": "Per customer, the AI reads consumption changes, payment patterns and contract end dates to flag who is about to leave. It picks the offer, channel and moment per household.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right tariff to each customer",
+   "text": "Next best tariff, add-on or service per customer, based on consumption and contract history. Fewer blanket campaigns, and offers timed to the moment a customer is likely to act.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep customers engaged with their energy data",
+   "text": "Personal nudges on usage, peak-time savings and service news, sent in the channels each customer already uses, so every customer has a reason to engage every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
