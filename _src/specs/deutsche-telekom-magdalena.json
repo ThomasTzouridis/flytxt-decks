@@ -1,0 +1,38 @@
+{
+ "slug": "deutsche-telekom-magdalena",
+ "name": "Magdalena",
+ "first": "Magdalena",
+ "company": "Deutsche Telekom",
+ "site": "telekom.com · Telecommunications and home internet, Germany",
+ "logo": "deutsche-telekom-magdalena_logo.png",
+ "shot": "deutsche-telekom-magdalena_shot.jpg",
+ "headline": "Turn Deutsche Telekom’s usage data into offers that stay.",
+ "saw": [
+  "Your homepage sells subscription plans, home internet and fibre, a B2B segment and current promotions to every visitor the same way, whether they come for Privatkunden or the Telekom Kundencenter.",
+  "Once customers are signed up, their tariff use, home internet usage, Online-Shop purchases and ignored recommendations are the strongest signals for the next upgrade or cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The household about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from tariff use, support contacts and data consumption. The right offer, channel and moment, picked for each household and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right upgrade when it fits",
+   "text": "Next best tariff, home internet or fibre add-on per customer, triggered by what they already use. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the services",
+   "text": "Personal recommendations and promotions in the Online-Shop, email and on your homepage, orchestrated so each customer sees a reason to use Telekom services again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
