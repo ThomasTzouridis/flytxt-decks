@@ -1,0 +1,38 @@
+{
+ "slug": "lew-christian",
+ "name": "Christian",
+ "first": "Christian",
+ "company": "LEW",
+ "site": "lew.de · Utilities provider, Germany",
+ "logo": "lew-christian_logo.png",
+ "shot": "lew-christian_shot.jpg",
+ "headline": "Turn LEW’s usage data into contracts that stay.",
+ "saw": [
+  "In most utilities the same tariff letter goes to every household, whatever its consumption, contract end date or payment history. Every customer hears about the offer in the same way.",
+  "Meter readings, consumption patterns, contract end dates and payment behaviour are the strongest signals you have for the next upgrade and the next switch. Today that signal sits in billing and analytics, not in the message your customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are usually built by hand, per segment, per month. The customer who is about to switch supplier this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the contract ends",
+   "text": "Per customer signals from consumption changes, late payments and contract end dates flag who is likely to leave. The right offer, channel and moment is picked for each household.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the tariff that fits each home",
+   "text": "Next best tariff, add-on or service per household, based on consumption and what each customer already holds. No more blanket renewal letters to customers already on the right contract.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every customer engaged, not just mailed",
+   "text": "Personal usage insights and service messages across the channels each customer already uses, chosen so each one has a reason to log in again. Fewer blanket mails overall.",
+   "kpi": "86%",
+   "kpi_label": "lower email cost at a Tier-1 African MNO"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
