@@ -1,0 +1,38 @@
+{
+ "slug": "blacklane-daria",
+ "name": "Daria",
+ "first": "Daria",
+ "company": "Blacklane",
+ "site": "blacklane.com · Premium chauffeur service, Germany",
+ "logo": "blacklane-daria_logo.svg",
+ "shot": "blacklane-daria_shot.jpg",
+ "headline": "Turn Blacklane’s booking data into rides that stay.",
+ "saw": [
+  "Your homepage sells professional chauffeurs for business and leisure across 60+ countries, with Corporate travel, simplified and High-end vehicles shown to every visitor the same way, whether they book for work or for leisure.",
+  "Once a rider has booked, the app and your ride history show which cities they travel between, how often they book, and when they stop booking. That signal sits in analytics, not in the message the rider receives.",
+  "Cross-sell, upsell and anti churn campaigns for business accounts and leisure riders are built by hand, per segment, per month. The business client who is about to stop booking this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Spot riders whose booking rhythm is slipping and send each one the right offer, channel and moment, such as a roaming offer in the app or a personal email.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next upgrade when it fits",
+   "text": "Decide per customer whether the next step is a subscription plan or an add-on, based on ride history, and stop sending the same upgrade mail to the whole list.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every rider booking, every month",
+   "text": "Personal nudges in app, push and email that point each customer to the vehicles and cities they actually use, so every rider has a reason to book again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
