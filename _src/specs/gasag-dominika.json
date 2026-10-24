@@ -1,0 +1,38 @@
+{
+ "slug": "gasag-dominika",
+ "name": "Dominika",
+ "first": "Dominika",
+ "company": "Gasag",
+ "site": "gasag.de · Gas and power supplier, Berlin",
+ "logo": "gasag-dominika_logo.svg",
+ "shot": "gasag-dominika_shot.jpg",
+ "headline": "Turn Gasag’s usage data into tariffs that stay.",
+ "saw": [
+  "Your homepage sells electricity and gas tariffs, promotions and discounts to private and business customers in the same way. Every visitor sees the same front door, whether they came for a dynamic tariff or for heating.",
+  "Once a customer is logged in to My account, the signal you already own is their usage: consumption patterns, tariff choices, contact history and what they never open. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns for tariffs, heating and solar are built by hand, per segment, per month. The customer who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the notice arrives",
+   "text": "The AI reads usage drops and contact history to spot who is about to switch, then picks the offer, channel and moment for each customer across tariffs and heating.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff that fits",
+   "text": "For each customer, the AI picks the next best tariff, solar or heating product based on what they buy and use, and stops blanket campaigns to people on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the account in use, every month",
+   "text": "The AI picks the right moment and channel for a tip, tariff check or heating update, by email or at login on your site. Each customer gets one reason to return.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
