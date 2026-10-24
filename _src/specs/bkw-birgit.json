@@ -1,0 +1,38 @@
+{
+ "slug": "bkw-birgit",
+ "name": "Birgit",
+ "first": "Birgit",
+ "company": "BKW",
+ "site": "bkw.ch · Solar, heating and EV charging, Switzerland",
+ "logo": "bkw-birgit_logo.png",
+ "shot": "bkw-birgit_shot.jpg",
+ "headline": "Turn BKW’s usage data into energy services that stay.",
+ "saw": [
+  "Your homepage sells solar systems, heating replacement, charging stations and smart home products to every visitor the same way, whether they arrive as private customers, businesses or municipalities.",
+  "Once a customer is logged in, which solar, heating or charging pages they open and which offers they ignore is your strongest signal for the next product. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The household that is about to cancel its energy contract this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from login activity, support contacts and usage changes. The right offer, channel and moment for each household, tested continuously against the blanket mailing.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product when it fits",
+   "text": "Next best product per customer, solar, heat pump or charging station, triggered by the pages they open. No more one campaign for every household on the newsletter list.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep each household engaged between bills",
+   "text": "Personal nudges to the solar, heating and charging content each customer uses, in email, on your site and in My account. Every household gets a reason to come back.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
