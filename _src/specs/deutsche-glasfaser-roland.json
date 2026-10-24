@@ -1,0 +1,38 @@
+{
+ "slug": "deutsche-glasfaser-roland",
+ "name": "Roland",
+ "first": "Roland",
+ "company": "Deutsche Glasfaser",
+ "site": "deutsche-glasfaser.de · Fibre broadband provider, Germany",
+ "logo": "deutsche-glasfaser-roland_logo.svg",
+ "shot": "deutsche-glasfaser-roland_shot.jpg",
+ "headline": "Turn Deutsche Glasfaser’s usage data into contracts that stay.",
+ "saw": [
+  "Your homepage leads with fibre tariffs from 29,99 € a month and the DG giga 1000 plan, then splits into private, business and housing customers. Every visitor sees the same offer, whether tenant, homeowner or landlord.",
+  "Once a household is connected, its tariff, speed, add-ons and the changes it asks for are your strongest signal for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message the customer receives.",
+  "Upsell campaigns for the 1 Gbit/s tariff and cross-sell campaigns for telephony and TV are built by hand, per segment, per month. The household about to switch provider this week gets the same offer as everyone else, or none."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before it happens",
+   "text": "Per household, the AI reads tariff, speed and add-on history to spot who is about to switch, then picks the offer, channel and moment for each one.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff or add-on per household, based on what they use, so the 1 Gbit/s upgrade or telephony bundle reaches the household that is ready, not everyone.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every household using its connection",
+   "text": "Per household, the AI picks the add-on or tip that fits how they use the connection, such as TV for a family, sent only when it will be used.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
