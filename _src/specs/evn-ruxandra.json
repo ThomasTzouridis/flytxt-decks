@@ -1,0 +1,38 @@
+{
+ "slug": "evn-ruxandra",
+ "name": "Ruxandra",
+ "first": "Ruxandra",
+ "company": "EVN",
+ "site": "evn.at · Energy and water utility, Austria",
+ "logo": "evn-ruxandra_logo.svg",
+ "shot": "evn-ruxandra_shot.jpg",
+ "headline": "Turn EVN’s usage data into tariffs and services that stay.",
+ "saw": [
+  "Your homepage sells electricity, heat, water and solar power to every visitor in the same way, whether they come for a tariff, the EVN Bonuswelt or a solar check. Each visitor sees the same sections, promotions and calls to action.",
+  "Once customers log in to Meine EVN or use the EVN Drive app, their consumption, tariff choices and Bonuspunkte redemptions are your best signals for the next offer and the next switch. Today they sit in analytics, not in the message customers receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. A household about to switch supplier this week gets the same mail as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before it happens",
+   "text": "Per household, an AI reads consumption changes and tariff views to flag who is about to leave. It then picks the right offer, channel and moment for each one.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each household to the right tariff",
+   "text": "Next best tariff, Ladetarife or solar add-on per customer, triggered by what they actually consume. No more blanket mails to households already on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the app in use, every week",
+   "text": "Personal nudges in the EVN Drive app, Meine EVN and mail, tied to what each customer uses and redeems. Every customer gets a reason to come back.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
