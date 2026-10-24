@@ -1,0 +1,38 @@
+{
+ "slug": "deutsche-telekom-maximilian",
+ "name": "Maximilian",
+ "first": "Maximilian",
+ "company": "Deutsche Telekom",
+ "site": "telekom.com · Telecommunications and home internet, Germany",
+ "logo": "deutsche-telekom-maximilian_logo.png",
+ "shot": "deutsche-telekom-maximilian_shot.jpg",
+ "headline": "Turn Deutsche Telekom’s network data into tariffs that stay.",
+ "saw": [
+  "Your homepage sells tariffs, home internet and fibre, streaming and TV content, and a business segment to every visitor the same way, whether they arrive as private customers or as a business. Promotions sit on the same page for everyone.",
+  "The signal you already own is how each customer uses their line: data volumes, TV and streaming viewing, tariff changes and contact with the customer service. That signal sits in analytics and reporting, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The household that is about to leave this week gets the same tariff offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, tariff changes and support contacts. The right offer, channel and moment for each customer, tested continuously across home internet, fibre and TV.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff, add-on or TV package for each customer, chosen from what they already use. No more blanket upgrade mails to customers already on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep TV and streaming in use",
+   "text": "Personal recommendations and channel nudges across email, web and customer service, so every customer has a reason to use what they already pay for every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
