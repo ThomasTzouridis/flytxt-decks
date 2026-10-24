@@ -1,0 +1,38 @@
+{
+ "slug": "lufthansa-dario",
+ "name": "Dario",
+ "first": "Dario",
+ "company": "Lufthansa",
+ "site": "lufthansa.com · Airline and aviation, Germany",
+ "logo": "lufthansa-dario_logo.png",
+ "shot": "lufthansa-dario_shot.jpg",
+ "headline": "Turn Lufthansa’s booking data into customers who fly again.",
+ "saw": [
+  "Most airline sites show every visitor the same fares, routes and offers, whether they fly every month or once a year. Your customers see one front door, and the offer that reaches a frequent traveller is often the same one a first-time booker gets.",
+  "Once a traveller has booked, the signal you already own is rich: when they rebook, which routes they repeat, what they add on, and when they cancel or go quiet. Today that signal sits in analytics, not in the message the traveller receives.",
+  "Cross-sell, upsell and anti churn campaigns are still built by hand, per segment, per month. The traveller who is about to switch carrier this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per traveller, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapsed flyer before they switch",
+   "text": "Per traveller signals from booking gaps and cancellations show who is drifting away this week. The AI picks the right offer, channel and moment for each person.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next trip that fits",
+   "text": "Next best offer per traveller, built from route history, cabin choices and booking timing. Cross-sell and upgrade offers reach each person when they plan, not in a monthly blast.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every traveller planning trips",
+   "text": "Personal destination and travel-date nudges by email, SMS and web, so each traveller has a reason to book again between trips. Engagement is measured weekly, per person.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
