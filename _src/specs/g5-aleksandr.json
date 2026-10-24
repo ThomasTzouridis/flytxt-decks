@@ -1,0 +1,38 @@
+{
+ "slug": "g5-aleksandr",
+ "name": "Aleksandr",
+ "first": "Aleksandr",
+ "company": "G5",
+ "site": "g5e.com · Free casual games platform, Sweden",
+ "logo": "g5-aleksandr_logo.svg",
+ "shot": "g5-aleksandr_shot.jpg",
+ "headline": "Turn G5’s usage data into players who stay.",
+ "saw": [
+  "Your homepage sells free hidden object, match-3 and puzzle games, the G5 Store, and your publishing and family offers to every visitor the same way, whether they arrive to play or to join the newsletter.",
+  "Once a player is in your app, which genres and characters they open and which they never touch is your strongest signal. Today it sits in analytics, not in the message the player receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The player about to lapse this week gets the same promotion as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per player, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Churn signals per player from session length, returns to the app and purchase gaps. The right offer, channel and moment for each player tested across your app and newsletter.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the right add-on per player",
+   "text": "Next best family plan or add-on for each player, based on genres played and return visits. No more blanket promotions to players who already own the bundle.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every game in use, every week",
+   "text": "Personal game and character nudges in app and newsletter, so each player sees a reason to open G5 again this week. Timing is set per player, not per campaign calendar.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
