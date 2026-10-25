@@ -1,0 +1,38 @@
+{
+ "slug": "eidsiva-trygve",
+ "name": "Trygve",
+ "first": "Trygve",
+ "company": "Eidsiva",
+ "site": "eidsiva.no · Utility with home internet and TV, Norway",
+ "logo": "eidsiva-trygve_logo.svg",
+ "shot": "eidsiva-trygve_shot.jpg",
+ "headline": "Turn Eidsiva’s usage data into households that stay.",
+ "saw": [
+  "Your homepage sells lightning fast fibre and TV at home, district heating and a chance to win tickets to the next HamKam match. Every visitor sees the same message, whether they come for internet or for the grid.",
+  "Once a household is on your fibre and TV, what they watch and how they use it is your best signal for the next add-on and the next cancellation. Today it sits in analytics, not in the message customers receive.",
+  "Upgrade, cross-sell and retention campaigns for fibre and TV are typically built by hand, per segment, per month. The household about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per household churn signals from viewing, fibre usage and billing changes. The right offer, channel and moment, picked for each customer and tested continuously across your fibre and TV base.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right add-on to each home",
+   "text": "Next best product per customer across your fibre and TV, triggered by what they actually use. No more blanket upgrade mails to households already on the right package.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every household using the service",
+   "text": "Personal tips and content nudges on your homepage and by email, so every household has a reason to keep using fibre and TV each week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
