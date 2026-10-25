@@ -1,0 +1,38 @@
+{
+ "slug": "vattenfall-jihan",
+ "name": "Jihan",
+ "first": "Jihan",
+ "company": "Vattenfall",
+ "site": "vattenfall.com · Energy utility, Sweden",
+ "logo": "vattenfall-jihan_logo.png",
+ "shot": "vattenfall-jihan_shot.jpg",
+ "headline": "Turn Vattenfall’s usage data into tariffs that stay.",
+ "saw": [
+  "Your homepage presents Vattenfall as a leading European energy company, with fossil freedom and electricity and heat from wind, hydro, nuclear and solar. Every visitor sees the same message and the same newsletter signup, whether they are a current customer or not.",
+  "Once a customer is on a tariff, their consumption, peak usage and early signs of leaving are your strongest signals for the next offer. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns for tariffs are typically built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the tariff switch before it happens",
+   "text": "Early warning per customer from consumption changes, billing contacts and contract age. The right offer, channel and moment, picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the next offer for each customer",
+   "text": "Next best tariff, add-on or service per customer, such as heat or solar, chosen from consumption and tenure. No more blanket mails to customers already on the right tariff.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep customers engaged every week",
+   "text": "Personal energy tips, usage insights and newsletter content in email, web and push, orchestrated so each customer has a reason to engage with us again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
