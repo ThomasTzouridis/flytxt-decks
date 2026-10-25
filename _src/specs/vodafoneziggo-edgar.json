@@ -1,0 +1,38 @@
+{
+ "slug": "vodafoneziggo-edgar",
+ "name": "Edgar",
+ "first": "Edgar",
+ "company": "VodafoneZiggo",
+ "site": "vodafoneziggo.nl · Telecommunications and home internet, Netherlands",
+ "logo": "vodafoneziggo-edgar_logo.png",
+ "shot": "vodafoneziggo-edgar_shot.jpg",
+ "headline": "Turn VodafoneZiggo’s usage data into home internet that stays.",
+ "saw": [
+  "Your homepage sells home internet or fibre to every visitor the same way, and a customer who already has a contract sees the same page as someone who does not.",
+  "Once someone runs a home internet or fibre line with you, how they use it and when a connection drops is your strongest signal for the next upgrade or cancellation. Today it sits in analytics, not in the message they receive.",
+  "Retention and upsell campaigns for home internet are built by hand per segment per month. The customer whose line drops this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Catch the cancellation before the call",
+   "text": "Per customer, the AI reads usage drops, outages and support contacts on home internet and fibre, then picks the right offer, channel and moment to keep the line. Tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade that fits this line",
+   "text": "For each customer, the AI picks the next best speed tier, add-on or bundle from how they use their connection, and sends it on the channel they respond to.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every line in active use",
+   "text": "Per customer, the AI spots slipping usage and sends the one nudge that fits, such as a DataDelen tip, through the channel each customer answers, so every line stays in use.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
