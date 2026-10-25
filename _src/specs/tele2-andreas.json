@@ -1,0 +1,38 @@
+{
+ "slug": "tele2-andreas",
+ "name": "Andreas",
+ "first": "Andreas",
+ "company": "Tele2",
+ "site": "tele2.com · Telecom operator, Sweden",
+ "logo": "tele2-andreas_logo.png",
+ "shot": "tele2-andreas_shot.jpg",
+ "headline": "Turn Tele2’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells subscription plans, family and multi-line offers, home internet and streaming, to consumers and businesses alike. Every visitor sees the same promotions and the same prices, such as 890 SEK, whoever they are and whatever they already own.",
+  "Customer usage is the strongest signal you own for the next upgrade and the next cancellation: what they stream, which family lines grow, which plans go quiet. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A customer who is about to leave this week, on a family plan or a home internet subscription, gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, plan changes and service contacts, with the right offer, channel and moment picked for each line and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan, family line or home internet add-on for each customer, triggered by what they actually use. No more blanket upgrade emails to customers who already have the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep streaming in use every week",
+   "text": "Personal content and TV nudges per customer, delivered by email, SMS and on your homepage, orchestrated so every customer has a reason to stream again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
