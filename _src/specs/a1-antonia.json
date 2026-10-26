@@ -1,0 +1,38 @@
+{
+ "slug": "a1-antonia",
+ "name": "Antonia",
+ "first": "Antonia",
+ "company": "A1",
+ "site": "a1.net · Telecommunications provider, Austria",
+ "logo": "a1-antonia_logo.png",
+ "shot": "a1-antonia_shot.jpg",
+ "headline": "Turn A1’s usage data into offers that keep customers.",
+ "saw": [
+  "In telecoms, the homepage usually sells the same plans and offers to every visitor, whether they are loyal today or about to leave.",
+  "The signal you already own is how customers use their service: data, calls, and the moment usage drops. That signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per month. The customer who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, service issues and contract timing. The right offer, channel and moment, picked for each customer and tested continuously across every channel you run.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade when it fits",
+   "text": "Next best offer per customer, based on what they actually use, not on the segment they sit in. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service",
+   "text": "Personal nudges that show each customer the services they use least and the ones they have not tried yet, in the channel they respond to. Usage stays up across the base.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
