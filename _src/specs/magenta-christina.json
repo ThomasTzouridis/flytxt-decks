@@ -1,0 +1,38 @@
+{
+ "slug": "magenta-christina",
+ "name": "Christina",
+ "first": "Christina",
+ "company": "Magenta",
+ "site": "magenta.at · Mobile, home internet and TV, Austria",
+ "logo": "magenta-christina_logo.svg",
+ "shot": "magenta-christina_shot.jpg",
+ "headline": "Turn Magenta’s viewing data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile tariffs, home internet, TV, family plans and business offers to every visitor the same way, whether they arrive for a smartphone, a Disney+ bundle or a Netflix deal.",
+  "Once a customer logs in, what they stream, how family lines use data and when they change tariff are the strongest signals for the next upgrade or cancellation. Today those signals sit in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for mobile, TV and home internet are built by hand, per segment, per month. The family line about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep the family line before it leaves",
+   "text": "Churn signals per customer from data usage, tariff changes and support contacts, with the right offer, channel and moment picked for each line across the channels you already run.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff that fits",
+   "text": "Next best tariff, add-on or bundle per customer, triggered by how they use mobile data, home internet and TV. No more blanket upgrade mails to lines already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep TV viewers coming back every week",
+   "text": "Content and channel nudges for Magenta TV and streaming bundles, sequenced across the channels you already run, so every customer has a reason to use what they pay for.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
