@@ -1,0 +1,38 @@
+{
+ "slug": "tui-mirco",
+ "name": "Mirco",
+ "first": "Mirco",
+ "company": "TUI",
+ "site": "tui.com · Package holidays and hotels, Austria",
+ "logo": "tui-mirco_logo.svg",
+ "shot": "tui-mirco_shot.jpg",
+ "headline": "Turn TUI’s booking data into holidays guests come back for.",
+ "saw": [
+  "Your homepage sells package holidays, family hotels, last minute deals and flights to every visitor the same way, whether they arrive looking for family holidays, a deal of the week or a long haul trip.",
+  "Booked destinations, hotel categories, transfer add-ons and the trips guests search for but never book are the strongest signals you own. Today they sit in analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and retention campaigns for family holidays, last minute deals and flights are built by hand, per segment, per month. The guest who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep the booked guest from cancelling",
+   "text": "Per guest signals like rebooking questions, late changes and price checks flag who is about to cancel. Each gets the right offer, channel and moment, picked for them.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Send the next offer, not the same offer",
+   "text": "Next best holiday, hotel or transfer per guest, based on what they booked and searched. Blanket deal mails give way to one offer per guest, on their channel.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep guests planning the next trip",
+   "text": "Destination and family holiday ideas per guest on the homepage, in email and on the deal of the week page, so each guest has a reason to come back.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
