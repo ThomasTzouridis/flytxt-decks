@@ -1,0 +1,38 @@
+{
+ "slug": "goteborg-energi-mattias",
+ "name": "Mattias",
+ "first": "Mattias",
+ "company": "Göteborg Energi",
+ "site": "goteborgenergi.se · Energy utility and fibre, Sweden",
+ "logo": "goteborg-energi-mattias_logo.png",
+ "shot": "goteborg-energi-mattias_shot.jpg",
+ "headline": "Turn Göteborg Energi’s usage data into contracts that stay.",
+ "saw": [
+  "Your homepage sells electricity contracts, fossil-free power and home internet to private households and businesses alike, and every visitor sees the same message, whether they arrive to compare contracts or to ask about a bill.",
+  "Your app already shows households their own electricity use. That usage signal, and when they charge or run appliances, sits in analytics, not in the message the customer receives.",
+  "Campaigns for upgrades, add-ons and customers who might leave are built by hand, per segment, per month. A household about to leave this week, perhaps after a price rise, gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per household, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the bill arrives",
+   "text": "Per household churn signals from usage patterns, app activity and customer service contacts. The right offer, channel and moment picked for each customer, with the contract and the app as channels.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer fibre and internet when it fits",
+   "text": "Next best product per household, such as home internet or fibre for an electricity-only customer, triggered by usage and timing. No more blanket mails to households already on the right contract.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the app in use every week",
+   "text": "Personal usage insights in the app, push and email, timed to each household’s consumption and to the hours when power is cheapest. A reason to open the app every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
