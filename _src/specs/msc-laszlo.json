@@ -1,0 +1,38 @@
+{
+ "slug": "msc-laszlo",
+ "name": "Laszlo",
+ "first": "Laszlo",
+ "company": "MSC",
+ "site": "msccruises.com · Cruise line, Switzerland",
+ "logo": "msc-laszlo_logo.png",
+ "shot": "msc-laszlo_shot.jpg",
+ "headline": "Turn MSC’s booking data into onboard spend that stays.",
+ "saw": [
+  "Most cruise homepages present the same sailings and onboard packages to every visitor, whatever their trip, budget or family. That is the message your visitors see first, and it is written for nobody in particular.",
+  "Once a guest has booked, their onboard spend, excursion purchases and the services they never use are your strongest signal for the next sale and the next lost booking. Today that signal sits in analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The guest who is about to book with another line next week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep returning guests from booking elsewhere",
+   "text": "Per guest signals from booking gaps, repeat sailing patterns and onboard spend show who is drifting away. The right offer, channel and moment, picked for each guest and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Sell the excursion or package that fits",
+   "text": "Next best onboard offer per guest, from cabin category, past spend and the dining or excursion they already chose. Fewer blanket pre-cruise offers, more add-ons that match the trip.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep guests planning, booking and sailing again",
+   "text": "Personal messages in app and email built on each guest’s past sailings and interests. Fewer blanket newsletters, and every guest sees a reason to plan the next trip.",
+   "kpi": "86%",
+   "kpi_label": "lower email cost at a Tier-1 African MNO"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
