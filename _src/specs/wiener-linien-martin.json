@@ -1,0 +1,38 @@
+{
+ "slug": "wiener-linien-martin",
+ "name": "Martin",
+ "first": "Martin",
+ "company": "Wiener Linien",
+ "site": "wienerlinien.at · Public transport operator, Vienna, Austria",
+ "logo": "wiener-linien-martin_logo.png",
+ "shot": "wiener-linien-martin_shot.jpg",
+ "headline": "Turn Wiener Linien’s usage data into riders who stay.",
+ "saw": [
+  "Public transport in Vienna serves commuters, students and occasional visitors, yet a message from your side typically reaches all of them in the same form.",
+  "Once a rider is on the network, which lines they use, at what times and when they stop travelling is your strongest signal for the next offer and the next lapse. Today that signal sits in analytics, not in the message riders receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A rider who stops travelling this week gets the same message as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per rider, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per rider, the model reads the drop in travel that comes before a lapse, then picks the right offer, channel and moment. Tested continuously against a control group.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right add-on to each rider",
+   "text": "Next best offer and cross-sell per rider, based on the lines and times they actually use. Fewer blanket campaigns sent to riders who already have what they need.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep riders travelling every week",
+   "text": "Personal nudges on the routes and times each rider uses, sent through the channels you already run, so every rider has a reason to travel again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
