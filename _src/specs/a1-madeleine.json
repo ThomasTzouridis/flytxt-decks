@@ -1,0 +1,38 @@
+{
+ "slug": "a1-madeleine",
+ "name": "Madeleine",
+ "first": "Madeleine",
+ "company": "A1",
+ "site": "a1.net · Office of the CCO at A1",
+ "logo": "a1-madeleine_logo.png",
+ "shot": "a1-madeleine_shot.jpg",
+ "headline": "Turn A1’s usage data into offers that stay.",
+ "saw": [
+  "Your role sits where customer priorities are set, so one question matters most: does every customer receive a message that fits what they actually do, or does each segment get the same one?",
+  "Whatever a customer uses, buys, pauses or never opens is the strongest signal for the next offer and the next cancellation. In most companies that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage changes, drop in activity and support contacts. The right offer, channel and moment, picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product when it fits",
+   "text": "Next best offer per customer, based on what they already use and what similar customers bought next. No more blanket mails to customers who already have the right package.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep the service in use, every week",
+   "text": "Personal reminders that bring each customer back to the services they pay for, timed to their own usage and sent only when there is a reason to act.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
