@@ -1,0 +1,38 @@
+{
+ "slug": "stage-entertainment-harrison",
+ "name": "Harrison",
+ "first": "Harrison",
+ "company": "Stage Entertainment",
+ "site": "stage-entertainment.com · Theatre productions, Netherlands",
+ "logo": "stage-entertainment-harrison_logo.svg",
+ "shot": "stage-entertainment-harrison_shot.jpg",
+ "headline": "Turn Stage Entertainment’s booking data into visits that stay.",
+ "saw": [
+  "Your homepage sells productions, theatres, creative development and event organising to every visitor the same way, whether they come as a theatre fan or a business buyer.",
+  "Once someone has seen a production, which show they booked, when they came back and which theatre they chose is your strongest signal for the next visit. Today that signal sits in analytics, not in the message the audience receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The audience member who is about to stop booking this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per-customer signals from booking history, repeat visits and time since the last show flag who is drifting away. The right offer, channel and moment is chosen for each person.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next production that fits",
+   "text": "Next best production, add-on or event for each customer, based on past bookings. Each offer goes only to the people it fits, not to the whole mailing list.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every customer coming back",
+   "text": "Personal nudges toward productions, theatres and events, sent by email and on your site, timed to each customer’s booking rhythm. Every customer gets a reason to return.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
