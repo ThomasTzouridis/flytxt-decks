@@ -1,0 +1,38 @@
+{
+ "slug": "sixt-yuankun",
+ "name": "Yuankun",
+ "first": "Yuankun",
+ "company": "Sixt",
+ "site": "sixt.com · Premium car rental, Germany",
+ "logo": "sixt-yuankun_logo.svg",
+ "shot": "sixt-yuankun_shot.jpg",
+ "headline": "Turn Sixt’s booking data into rentals that stay.",
+ "saw": [
+  "Your homepage sells premium car rental, SIXT+ Car Subscription and SIXT Business to every visitor the same way, with up to 20% off and no hidden costs shown alike to a first time renter and a loyal SIXT ONE member.",
+  "Once a customer has booked, what they rent, which car class they choose and when they return is your strongest signal for the next upgrade and the next cancellation. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for SIXT+, SIXT ONE and SIXT Business are typically built by hand, per segment, per month. The renter who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per renter from booking frequency, return times and app activity. The right offer, channel and moment for each customer, from SIXT+ or SIXT ONE, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next car class when it fits",
+   "text": "Next best offer per customer across SIXT+ Car Subscription, SIXT Business and add-ons, triggered by what they actually booked. No more blanket discount mails to every renter.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Bring the app back between rentals",
+   "text": "Personal reasons to open the SIXT app between rentals, from return reminders to SIXT ONE rewards, sent in app, push and email at the right moment for each customer.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
