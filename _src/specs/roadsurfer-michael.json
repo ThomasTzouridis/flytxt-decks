@@ -1,0 +1,38 @@
+{
+ "slug": "roadsurfer-michael",
+ "name": "Michael",
+ "first": "Michael",
+ "company": "roadsurfer",
+ "site": "roadsurfer.com · Camper van and RV rentals, Germany",
+ "logo": "roadsurfer-michael_logo.svg",
+ "shot": "roadsurfer-michael_shot.jpg",
+ "headline": "Turn roadsurfer’s booking data into rentals that come back.",
+ "saw": [
+  "Your homepage sells camper vans and RVs by class and offers 20% off to every visitor the same way, whether they arrive looking for a Class B, a Class C or a Sprinter-style van.",
+  "Once a customer has booked, their vehicle class, pickup and drop-off locations and return timing are your strongest signals for the next rental and the next lost customer. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The renter who is about to cancel this week, or who has gone quiet, gets the same early booking offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per renter, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per renter, the AI reads booking history and return timing to spot who is drifting away, then picks the right offer, channel and moment for each one.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade that fits this renter",
+   "text": "Next best vehicle class or add-on for each renter, based on past bookings, trip length and destination. Blanket promotion mails stop going to people who already have the right van.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every renter planning the next trip",
+   "text": "Personal route and destination ideas from your inspiration pages and deals, sent by email or shown on your homepage, so each renter has a reason to book again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
