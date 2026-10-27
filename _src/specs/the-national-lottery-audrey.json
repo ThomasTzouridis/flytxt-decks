@@ -1,0 +1,38 @@
+{
+ "slug": "the-national-lottery-audrey",
+ "name": "Audrey",
+ "first": "Audrey",
+ "company": "The National Lottery",
+ "site": "nationale-loterij.be · Public lotteries and games, Belgium",
+ "logo": "the-national-lottery-audrey_logo.png",
+ "shot": "the-national-lottery-audrey_shot.jpg",
+ "headline": "Turn The National Lottery’s purchase data into players who stay.",
+ "saw": [
+  "Your homepage sells Lotto, EuroMillions and your club to every visitor the same way, whether they come to play online, find a shop or look at a business opportunity. Promotions on the homepage reach everyone too.",
+  "Once someone uses your app, what they play, how often and when they stop is your strongest signal for the next offer and the next lapse. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. A subscriber who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Each customer’s play, skipped draws, app use and stopped buying flag who is drifting away. Offer, channel and timing are picked for each person across app, email and shop.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the plan that fits each customer",
+   "text": "Next best plan or add-on per customer, based on what they play and buy. No more blanket subscription mails to people who already have the plan that suits them.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every player engaged each week",
+   "text": "Personal game and draw nudges in app, push and email, timed so each customer has a reason to open the app again. Chosen per person, not per list.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
