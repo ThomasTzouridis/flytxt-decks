@@ -1,0 +1,38 @@
+{
+ "slug": "netcologne-guido",
+ "name": "Guido",
+ "first": "Guido",
+ "company": "NetCologne",
+ "site": "netcologne.de · Fibre and DSL internet, Cologne, Germany",
+ "logo": "netcologne-guido_logo.svg",
+ "shot": "netcologne-guido_shot.jpg",
+ "headline": "Turn NetCologne’s usage data into connections that stay.",
+ "saw": [
+  "Your homepage sells fibre and DSL tariffs, top offers and a referral bonus to every visitor the same way, whether they are new to you or already sitting on a contract with you.",
+  "Once a customer is logged in, how they change their speed and when they report a fault is your strongest signal for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The fibre household that reports a fault this week and is about to cancel gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per customer, the AI reads speed changes, fault reports and login activity to spot cancellation risk early, then picks the right offer, channel and moment for each household.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "For each customer, the AI decides which tariff or add-on to offer next, based on how they use their connection, and stops offers to households already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every household engaged with its connection",
+   "text": "The AI picks the message, channel and moment for each customer, from service tips to speed upgrades, so every household has a reason to stay engaged each week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
