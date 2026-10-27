@@ -1,0 +1,38 @@
+{
+ "slug": "e-on-anne",
+ "name": "Anne",
+ "first": "Anne",
+ "company": "E.ON",
+ "site": "eon.com · Energy utility, Germany",
+ "logo": "e-on-anne_logo.png",
+ "shot": "e-on-anne_shot.jpg",
+ "headline": "Turn E.ON’s usage data into customers who stay.",
+ "saw": [
+  "Your homepage leads with the promise that it&rsquo;s on us to make new energy work, and every visitor sees that same message, whether they arrive for the business segment or for streaming and TV content.",
+  "Across the business segment and your TV and streaming content, what customers use, consume, pause and leave is the signal you own for the next offer and the next cancellation. Today it sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The business customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Reads usage signals per business customer and flags who is drifting toward the exit. It then picks the right offer, channel and moment for each account, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product when it fits",
+   "text": "Next best product or service per customer, matched to what each business account already uses. No more blanket mails to customers who already have what they need.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep the catalogue in use, every week",
+   "text": "Personal content nudges for TV and streaming viewers, plus business updates for account holders, so every customer sees a reason to come back this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
