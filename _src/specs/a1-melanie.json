@@ -1,0 +1,38 @@
+{
+ "slug": "a1-melanie",
+ "name": "Melanie",
+ "first": "Melanie",
+ "company": "A1",
+ "site": "a1.net · Customer-facing business, market to confirm",
+ "logo": "a1-melanie_logo.png",
+ "shot": "a1-melanie_shot.jpg",
+ "headline": "Turn A1’s usage data into customers that stay.",
+ "saw": [
+  "On most customer-facing websites, the homepage presents the same offers to every visitor, whether they are new, loyal or about to leave.",
+  "The strongest signal you already own is what customers actually use, change or never open. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are typically built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per-customer churn signals from usage, contact history and billing events. The right offer, channel and moment, chosen for each customer and tested continuously across your base.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Make the next offer the right one",
+   "text": "Next best offer for each customer, based on what they use and what they have never tried. Fewer blanket campaigns, and every add-on reaches the customers who want it.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep customers active, every week",
+   "text": "Personal nudges across email, SMS and push, timed to each customer’s own usage rhythm, so every customer has a reason to stay engaged and keep using the service.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
