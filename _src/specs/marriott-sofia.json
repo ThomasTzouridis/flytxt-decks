@@ -1,0 +1,38 @@
+{
+ "slug": "marriott-sofia",
+ "name": "Sofia",
+ "first": "Sofia",
+ "company": "Marriott",
+ "site": "marriott.com · Hotel group, United States",
+ "logo": "marriott-sofia_logo.png",
+ "shot": "marriott-sofia_shot.jpg",
+ "headline": "Turn Marriott’s booking data into stays that keep coming back.",
+ "saw": [
+  "Across a hotel group&rsquo;s digital channels, a business traveller, a family and a conference planner are usually greeted in the same way, with the same message and the same offer.",
+  "The strongest signal you own is what guests book, change, cancel and where they stay again, and that signal sits in revenue and booking analytics, not in the message the guest receives.",
+  "Upsell, cross-sell and retention campaigns are usually built by hand, per segment, per month. The guest who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Booking changes, cancellations and gaps between stays flag who is drifting away. The right offer, channel and moment is picked for each guest and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade that fits this guest",
+   "text": "Next best offer per guest, a suite upgrade, dining add-on or extra night, picked from their past stays and sent in the channel they actually read.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Give each guest a reason to return",
+   "text": "Personal stay ideas per guest, a seasonal rate or a destination offer, orchestrated across every channel so each guest has a reason to book direct again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
