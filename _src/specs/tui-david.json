@@ -1,0 +1,38 @@
+{
+ "slug": "tui-david",
+ "name": "David",
+ "first": "David",
+ "company": "TUI",
+ "site": "tui.com · Travel operator and hotel brands, Austria",
+ "logo": "tui-david_logo.svg",
+ "shot": "tui-david_shot.jpg",
+ "headline": "Turn TUI’s booking data into repeat trips that stay.",
+ "saw": [
+  "Your homepage sells package holidays, hotel brands, flights and last minute deals to every visitor the same way, whether they arrive for family holidays, city breaks or the deal of the week.",
+  "The signal you already own is what travellers book, rebook or cancel, and which destinations they return to. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The traveller who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per-customer churn signals from rebooking, cancellations and late booking changes. The right offer, channel and moment for each traveller, tested continuously across your hotel brands and flights.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the right add-on for each traveller",
+   "text": "Next best flight, hotel or transfer per customer, based on what they booked and when. Family offers reach the people who need them, not everyone on the list.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep travellers dreaming between bookings",
+   "text": "Personal destination and deal nudges by email and on your homepage, so every traveller has a reason to return before the next holiday is planned.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
