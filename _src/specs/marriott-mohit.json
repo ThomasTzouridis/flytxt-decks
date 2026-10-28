@@ -1,0 +1,38 @@
+{
+ "slug": "marriott-mohit",
+ "name": "Mohit",
+ "first": "Mohit",
+ "company": "Marriott",
+ "site": "marriott.com · Hotels and hospitality, United States",
+ "logo": "marriott-mohit_logo.png",
+ "shot": "marriott-mohit_shot.jpg",
+ "headline": "Turn Marriott’s booking data into stays that repeat.",
+ "saw": [
+  "In hotels, the offers a brand puts in front of guests usually look the same whether someone is planning a family holiday or a business trip, so every visitor gets the same message.",
+  "Stay history, booking lead times, room preferences and the offers guests ignore already sit in your systems. That signal lives in reporting and analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per month. The guest who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapsed guest before they leave",
+   "text": "Per-guest churn signals from stay frequency, booking gaps and service contacts. The right offer, channel and moment picked for each guest, tested continuously against a control group.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next stay that fits",
+   "text": "Next best room, rate or add-on per guest, based on past stays. No more blanket upgrade mails to guests who already booked the right package.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep every guest engaged between stays",
+   "text": "Personal nudges for the room, dining and experiences each guest actually uses, sent by push and email, orchestrated so every guest has a reason to book again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
