@@ -1,0 +1,38 @@
+{
+ "slug": "tui-raj",
+ "name": "Raj",
+ "first": "Raj",
+ "company": "TUI",
+ "site": "tui.com · Package holidays and flights, Austria",
+ "logo": "tui-raj_logo.svg",
+ "shot": "tui-raj_shot.jpg",
+ "headline": "Turn TUI’s booking data into trips that stay booked.",
+ "saw": [
+  "Your homepage sells package holidays, family hotels, flights and a deal of the week to every visitor the same way, whether they arrive for a family holiday or a last minute trip.",
+  "After booking, what a guest picks, when they rebook or cancel, and which flights they never add is the strongest signal you have. Today that signal sits in analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A family who is about to cancel this week gets the same offer as every other family, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per customer churn signals from bookings, rebookings, account logins and browsing. The right offer, channel and moment, picked for each traveller and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each traveller to the right offer",
+   "text": "Next best trip, flight or add-on for each customer, based on past bookings. Family hotel guests see family offers, others see what fits them, not one blanket deal for all.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep travellers engaged between bookings",
+   "text": "Personal destination, deal and family hotel nudges by email and in your personal recommendations, timed per customer so each one has a reason to come back and book again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
