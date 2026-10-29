@@ -1,0 +1,38 @@
+{
+ "slug": "telefonica-jose",
+ "name": "Jose Maria",
+ "first": "Jose Maria",
+ "company": "Telefónica",
+ "site": "telefonica.com · Multinational telecoms, Madrid, Spain",
+ "logo": "telefonica-jose_logo.svg",
+ "shot": "telefonica-jose_shot.jpg",
+ "headline": "Turn Telefónica’s usage data into tariffs that stay.",
+ "saw": [
+  "Your homepage shows tariffs, a newsletter signup and promotions or discounts to every visitor in the same way, whether they arrive as a customer, a journalist or an investor.",
+  "The signal you already own, which tariff a customer outgrows, which add-on they use, when their data runs out, sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same tariff offer as everyone else, or none."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, tariff changes and contact history, with the right offer, channel and moment chosen for each person, not each segment.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right tariff, per customer",
+   "text": "Next best tariff, add-on and promotion for each customer, chosen from how they actually use their line. Blanket promotions and newsletter pushes give way to one offer per person.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep customers using their plan",
+   "text": "Personal nudges for tariffs and add-ons, sent through the channel each customer actually opens, so every line keeps a reason to be used every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
