@@ -1,0 +1,38 @@
+{
+ "slug": "lufthansa-luke",
+ "name": "Luke",
+ "first": "Luke",
+ "company": "Lufthansa",
+ "site": "lufthansagroup.com · Airline and aviation, Germany",
+ "logo": "lufthansa-luke_logo.png",
+ "shot": "lufthansa-luke_shot.jpg",
+ "headline": "Turn Lufthansa’s booking data into repeat bookings that stay.",
+ "saw": [
+  "In most airline sales funnels, a returning customer and a first time visitor are shown the same fares, extras and upgrade prompts, whatever they booked before.",
+  "The signal you already own is what each customer books, changes, rebooks after a disruption, adds as extras and stops buying. That sits in booking and analytics data, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The customer who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per customer signals from booking gaps, rebookings after disruption and fare searches without purchase. The right offer, channel and moment, picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match extras and upgrades to each traveller",
+   "text": "Next best extra per customer, from seat, bag and cabin choices made before. Bundles and upgrades picked per traveller, sent only when fare and timing fit.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep travellers engaged between trips",
+   "text": "Personal content, destination ideas and service reminders per customer, orchestrated across email, push and your digital channels so every traveller has a reason to return between bookings.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
