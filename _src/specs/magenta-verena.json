@@ -1,0 +1,38 @@
+{
+ "slug": "magenta-verena",
+ "name": "Verena",
+ "first": "Verena",
+ "company": "Magenta",
+ "site": "magenta.at · Telecom, home internet and TV, Austria",
+ "logo": "magenta-verena_logo.svg",
+ "shot": "magenta-verena_shot.jpg",
+ "headline": "Turn Magenta’s viewing data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile tariffs, home internet, family bundles and TV packages to every visitor the same way, whether they arrive for the Disney+ offer, a business plan or a prepaid SIM.",
+  "Once a customer is logged in, which streaming partner they use, which tariff they have and when they switch is the strongest signal you own for the next upgrade or cancellation. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for Magenta are typically built by hand, per segment, per month. The customer about to leave this week, perhaps a family line whose contract is ending, gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per customer signals from streaming use, tariff and contract end dates. The right offer, channel and moment for each Magenta customer, before they decide to leave.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best tariff, Disney+ or Netflix add-on and family line per customer, triggered by what they actually use. No more blanket upgrade mails to customers already on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the streaming offer in use",
+   "text": "Personal TV and streaming nudges across email, web and TV, so each customer, whether home internet, family or mobile, has a reason to use Magenta TV again every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
