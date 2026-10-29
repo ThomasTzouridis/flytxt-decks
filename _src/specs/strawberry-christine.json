@@ -1,0 +1,38 @@
+{
+ "slug": "strawberry-christine",
+ "name": "Christine",
+ "first": "Christine",
+ "company": "Strawberry",
+ "site": "strawberry.no · Hotel group, Norway and the Nordics",
+ "logo": "strawberry-christine_logo.png",
+ "shot": "strawberry-christine_shot.jpg",
+ "headline": "Turn Strawberry’s booking data into repeat stays.",
+ "saw": [
+  "Your homepage sells more than 250 hotels across the Nordics, from weekend packages with up to 20% off to family stays and conferences, and every visitor sees the same offers.",
+  "The signal you already own is what guests book, which packages they open, whether they travel with children, and what they add on at restaurant, spa or event. Today that signal sits in analytics, not in the offer a guest receives.",
+  "Campaigns for add-ons, upgrades and retention are built by hand, per segment, per month. The guest who is about to leave after a single stay this week gets the same weekend offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Bring guests back before they leave",
+   "text": "Per guest signals from bookings, package views and time since the last stay decide who gets a return offer, and when. Email or SMS, chosen per guest.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each guest to the right package",
+   "text": "Next best package per guest, from past stays, family or travel signals and restaurant or spa add-ons. No blanket packages to guests who already booked the right one.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep guests planning their next stay",
+   "text": "Personal inspiration per guest: events, Jazz Night or Comedy Night, restaurant and spa ideas, and family hotels, orchestrated so each guest sees a reason to browse again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
