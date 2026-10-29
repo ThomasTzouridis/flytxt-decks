@@ -1,0 +1,38 @@
+{
+ "slug": "eurowings-patrick",
+ "name": "Patrick",
+ "first": "Patrick",
+ "company": "Eurowings",
+ "site": "eurowings.com · Airline and aviation, Germany",
+ "logo": "eurowings-patrick_logo.png",
+ "shot": "eurowings-patrick_shot.jpg",
+ "headline": "Turn Eurowings’s booking data into bookings that stay.",
+ "saw": [
+  "Across airlines, the homepage typically sells the same fares and bundles to every visitor, whether they are booking a city break, a family holiday or a business trip.",
+  "Once a traveller has booked, which add-ons they take, when they rebook and which routes they never repeat is the strongest signal for the next offer. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are usually built by hand, per segment, per month. The customer who is about to rebook elsewhere this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Spot the traveller about to leave",
+   "text": "Per customer churn signals from booking history, service contacts and rebooking gaps. The right offer, channel and moment picked for each traveller, and tested continuously against a holdout.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next upgrade that fits",
+   "text": "Next best add-on or cabin upgrade per customer, based on past bookings and trip type, not one blanket mail to every passenger. Each traveller sees the offer that fits.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep travellers engaged between trips",
+   "text": "Personal content, destination tips and service messages per traveller in every channel you already run, timed to the booking journey so each customer has a reason to come back.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
