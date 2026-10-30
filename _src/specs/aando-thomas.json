@@ -1,0 +1,38 @@
+{
+ "slug": "aando-thomas",
+ "name": "Thomas",
+ "first": "Thomas",
+ "company": "a&o",
+ "site": "aohostels.com · Budget hostels and hotels, Germany",
+ "logo": "aando-thomas_logo.svg",
+ "shot": "aando-thomas_shot.jpg",
+ "headline": "Turn a&o’s booking data into stays that repeat.",
+ "saw": [
+  "Your homepage sells hostel and hotel beds at the best price to every visitor in the same way, with the same 25% discount banner, whether they arrive for families, school trips, business or London.",
+  "Once a guest has booked, the city, the lead time, the room type and the family or group offers they open are the strongest signal for the next stay. Today that signal sits in analytics, not in the message the guest receives.",
+  "Retention and cross-sell mails for families, students, business and deals are built by hand, per segment, per month. The guest who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Reach lapsing guests before they book elsewhere",
+   "text": "Flags each customer who is about to stop booking, from gaps between stays and newsletter activity. Picks the right offer, channel and moment per guest across email and homepage.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the next stay for each guest",
+   "text": "Next best stay per customer, from booking history and offers they open. Replaces the blanket deal mail with one offer per guest, timed to when they plan.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep guests coming back between stays",
+   "text": "City, deal and content nudges in email and on your homepage, based on what each guest searched and opened. Every customer gets a reason to plan the next trip.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
