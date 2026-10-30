@@ -1,0 +1,38 @@
+{
+ "slug": "telenor-christian",
+ "name": "Christian",
+ "first": "Christian",
+ "company": "Telenor",
+ "site": "telenor.com · Telecommunications group, Norway",
+ "logo": "telenor-christian_logo.svg",
+ "shot": "telenor-christian_shot.jpg",
+ "headline": "Turn Telenor’s usage data into offers that keep customers.",
+ "saw": [
+  "Your homepage speaks to a business segment and to investors, media and career visitors in the same way, and it carries promotions or discounts next to the corporate news. Every visitor sees the same message whatever they came for.",
+  "The signal you already own is what business customers use, buy, renew and stop using across the Nordics, and it sits in analytics rather than in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns for business accounts are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep the account before it leaves",
+   "text": "Spot the business account that is about to leave, from usage drops and support contacts. The AI picks the right offer, channel and moment for each account, not each segment.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next service when it fits",
+   "text": "Next best offer per business account, drawn from the services they already use. No blanket mailings to accounts already covered, and each offer goes out when the account is ready.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep usage steady, every week",
+   "text": "Keep each business account using what it pays for, every week. Personal nudges by email when usage drops, so every account has a reason to come back.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
