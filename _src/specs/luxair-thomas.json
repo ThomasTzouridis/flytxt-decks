@@ -1,0 +1,38 @@
+{
+ "slug": "luxair-thomas",
+ "name": "Thomas",
+ "first": "Thomas",
+ "company": "Luxair",
+ "site": "luxair.lu · Airline and aviation, Luxembourg",
+ "logo": "luxair-thomas_logo.svg",
+ "shot": "luxair-thomas_shot.jpg",
+ "headline": "Turn Luxair’s booking data into trips customers keep booking.",
+ "saw": [
+  "Your homepage sells Fly SMART fares, weekend breaks, Christmas markets and business class to every visitor in the same way, whether they arrive for a bargain city break or a corporate trip.",
+  "Once someone has flown with you, their routes, Miles & More activity and add-ons are the strongest signals for the next booking and the next lost traveller. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The traveller who is about to lapse this week gets the same Fly SMART offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep lapsing travellers flying with you",
+   "text": "Churn signals per customer from booking gaps, Miles & More activity and support contacts. The right offer, channel and moment for each traveller, picked and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next trip before they search",
+   "text": "Next best fare, add-on or Business Class upgrade per customer, triggered by past routes. No more blanket fare mails to people who already booked the right class.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every traveller planning the next trip",
+   "text": "Personal destination ideas, weekend break and Christmas market nudges in app, push and email, orchestrated so every customer has a reason to open Luxair again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
