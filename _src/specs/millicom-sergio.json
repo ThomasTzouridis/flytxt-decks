@@ -1,0 +1,38 @@
+{
+ "slug": "millicom-sergio",
+ "name": "Sergio",
+ "first": "Sergio",
+ "company": "Millicom",
+ "site": "millicom.com · Telecommunications company, Luxembourg",
+ "logo": "millicom-sergio_logo.png",
+ "shot": "millicom-sergio_shot.jpg",
+ "headline": "Turn Millicom’s usage data into subscriptions that stay.",
+ "saw": [
+  "Without your homepage in front of us, the common pattern in telecoms is one set of plans and offers shown to every visitor, whatever their usage, tenure or likelihood to leave.",
+  "Once a customer is on the network, usage, plan changes, bill shifts and support contacts are the strongest signals for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, plan changes and support contacts. The right offer, channel and moment picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan or add-on per customer, triggered by what they actually use. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service",
+   "text": "Personal nudges across push, email and SMS, orchestrated so each customer sees a reason to use their plan again this week, not once a quarter.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
