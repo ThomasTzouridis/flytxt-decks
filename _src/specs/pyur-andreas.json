@@ -1,0 +1,38 @@
+{
+ "slug": "pyur-andreas",
+ "name": "Andreas",
+ "first": "Andreas",
+ "company": "Pÿur",
+ "site": "pyur.com · Internet and TV provider, Germany",
+ "logo": "pyur-andreas_logo.png",
+ "shot": "pyur-andreas_shot.jpg",
+ "headline": "Turn Pÿur’s usage data into internet and TV customers who stay.",
+ "saw": [
+  "Your homepage sells internet and TV tariffs, Glasfaser fibre, the Young and Senior tariffs and PŸUR TV bundles to every visitor the same way, whether they arrive for fibre or for the TV packages.",
+  "Once a customer is connected, the speed they use, when they watch TV and which channels they never open is the strongest signal for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for Glasfaser, TV and router offers are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before the call",
+   "text": "Churn signals per customer from usage, router faults and support contacts. The right offer, channel and moment for each household, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade when it fits",
+   "text": "Next best tariff, TV bundle or fibre upgrade per customer, triggered by what they actually use. No more blanket offers to people already on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every household in daily use",
+   "text": "Personal TV and content nudges by email, SMS and customer login, so every household has a reason to use the service again this month.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
