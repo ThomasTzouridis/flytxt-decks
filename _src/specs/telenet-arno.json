@@ -1,0 +1,38 @@
+{
+ "slug": "telenet-arno",
+ "name": "Arno",
+ "first": "Arno",
+ "company": "Telenet",
+ "site": "telenet.be · Internet, mobile and TV provider, Belgium",
+ "logo": "telenet-arno_logo.png",
+ "shot": "telenet-arno_shot.jpg",
+ "headline": "Turn Telenet’s usage data into bundles that stay.",
+ "saw": [
+  "Your homepage sells internet, mobile, TV and family bundles to every visitor the same way, whether they come for a new device, roaming or a promotion.",
+  "Once a customer is logged in, what they stream, which fibre or TV options they keep and which they never touch is the signal for the next upgrade and the next cancellation. That signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for fibre, TV and family plans are built by hand, per segment, per month. The household about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per household from fibre use, TV viewing and support contacts. The right offer, channel and moment, picked for each customer and tested continuously across your base.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next add-on when it fits",
+   "text": "Next best plan, add-on or family line for each customer, triggered by what they actually use. No more blanket promotions to households already on the right bundle.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep streaming in use every week",
+   "text": "Personal streaming and TV nudges per customer, so every household has a reason to return. Sequenced by email and SMS, with the next move set by what they watched last.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
