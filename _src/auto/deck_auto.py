@@ -177,50 +177,20 @@ if not os.path.exists(shotp):
     for fp in (r'C:\Windows\Fonts\arialbd.ttf', '/System/Library/Fonts/Supplemental/Arial Bold.ttf'):
         if os.path.exists(fp): fnt = ImageFont.truetype(fp, 64); break
     ImageDraw.Draw(im).text((80, 330), domain, font=fnt, fill=(255, 255, 255)); im.save(shotp, quality=88); print('shot: placeholder')
-# logo: shot.py info candidates, else header <img ...logo...>, else text wordmark. The template paints it white (filter), so any colour works.
+# logo: ONE tool for every deck, _src/tools/logo.py (real browser, every header candidate rendered, boxes stripped, icons/photos/tiny
+# rasters dropped, wordmark of the name when nothing usable). The template paints it white (filter), so colour never matters, sharpness
+# and shape do. An existing specs/<slug>_logo.* is only one more candidate, never trusted as is.
 logo_file = None
-for ext in ('svg', 'png'):
-    if os.path.exists(os.path.join(SPECS, f'{slug}_logo.{ext}')): logo_file = f'{slug}_logo.{ext}'
+try:
+    rl = subprocess.run([sys.executable, os.path.join(SRC, 'tools', 'logo.py'), slug, company, url, '--bg', '#00141f', '--out', SPECS, '--name', slug + '_logo.png',
+                         '--preview', os.path.join(SPECS, '_preview'), '--on-none', 'text', '--json'], capture_output=True, text=True, timeout=400, encoding='utf-8', errors='replace')
+    print((rl.stdout or '')[-1500:])
+    jl = [l for l in (rl.stdout or '').splitlines() if l.startswith('JSON ')]
+    if jl: logo_file = json.loads(jl[-1][5:]).get('file')
+except Exception as e: print('logo tool failed', e)
 if not logo_file:
-    cands = []
-    info = os.path.join(shotdir, slug + '_info.json')
-    if os.path.exists(info):
-        try:
-            ji = json.load(open(info, encoding='utf-8'))
-            cands += [c for c in (ji.get('logos') or ji.get('logo') or []) if isinstance(c, str)]
-        except Exception: pass
-    if h:
-        head_html = re.search(r'(?is)<header.*?</header>', h)
-        hh = head_html.group(0) if head_html else h[:60000]
-        cands += re.findall(r'<img[^>]+src="([^"]+)"[^>]*(?:logo|Logo|LOGO)', hh) + re.findall(r'<img[^>]*(?:logo|Logo|LOGO)[^>]*src="([^"]+)"', hh)
-        cands += re.findall(r'<img[^>]+src="([^"]+)"[^>]*(?:logo|Logo|LOGO)', h) + re.findall(r'<img[^>]*(?:logo|Logo|LOGO)[^>]*src="([^"]+)"', h)
-        cands += re.findall(r'(?i)<link[^>]+rel="(?:apple-touch-icon|icon)"[^>]+href="([^"]+)"', h)
-    from PIL import Image
-    from io import BytesIO
-    for c in dict.fromkeys(cands):
-        if c.startswith('<svg') or c.startswith('data:'): continue
-        u = c if c.startswith('http') else ('https:' + c if c.startswith('//') else url.rstrip('/') + '/' + c.lstrip('/'))
-        u = u.split('?')[0]
-        try: r = requests.get(u, headers={'User-Agent': UA}, timeout=20)
-        except Exception: continue
-        if r.status_code != 200: continue
-        if u.endswith('.svg') or b'<svg' in r.content[:300]:
-            s = r.text
-            if '<svg' not in s[:2000]: continue
-            logo_file = slug + '_logo.svg'; open(os.path.join(SPECS, logo_file), 'w', encoding='utf-8').write(s); break
-        try:
-            im = Image.open(BytesIO(r.content)).convert('RGBA')
-            if im.width < 48 or im.height < 16: continue
-            if not any(a > 128 for a in im.getchannel('A').tobytes()[::97]): continue
-            logo_file = slug + '_logo.png'; im.save(os.path.join(SPECS, logo_file)); break
-        except Exception: continue
-    if not logo_file:
-        from PIL import ImageDraw, ImageFont
-        fnt = None
-        for fp in (r'C:\Windows\Fonts\arialbd.ttf', '/System/Library/Fonts/Supplemental/Arial Bold.ttf', '/System/Library/Fonts/Supplemental/Impact.ttf'):
-            if os.path.exists(fp): fnt = ImageFont.truetype(fp, 120); break
-        im = Image.new('RGBA', (2400, 200), (0, 0, 0, 0)); ImageDraw.Draw(im).text((10, 20), company, font=fnt, fill=(255, 255, 255, 255))
-        im = im.crop(im.getbbox()); logo_file = slug + '_logo.png'; im.save(os.path.join(SPECS, logo_file)); print('logo: text wordmark fallback')
+    sys.path.insert(0, os.path.join(SRC, 'tools')); import logo as _lg
+    logo_file = slug + '_logo.png'; _lg.wordmark(company, (255, 255, 255)).save(os.path.join(SPECS, logo_file)); print('logo: text wordmark fallback')
 print('logo', logo_file)
 
 # ---------- 3. the one model call ----------

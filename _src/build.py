@@ -12,6 +12,10 @@ t = (src / "template.html").read_text(encoding="utf-8")
 out = repo / sp["slug"]
 out.mkdir(exist_ok=True)
 logo = spec_path.parent / sp["logo"]
+sys.path.insert(0, str(src / "tools")); from logo import guard
+BG = "#00141f"                                   # the slide background; logos come from tools/logo.py only (sharp, wide; the template paints them white)
+_bad = guard(str(logo), BG)
+assert not _bad, f'{spec_path}: logo {sp["logo"]} is {_bad}. Run: py tools/logo.py {sp["slug"]} "{sp["company"]}" <website> --bg {BG} --out specs --name {sp["slug"]}_logo.png --on-none text --spec {spec_path}'
 shot = spec_path.parent / sp["shot"]
 shutil.copy(logo, out / ("logo" + logo.suffix.lower()))
 shutil.copy(shot, out / ("shot" + shot.suffix.lower()))
