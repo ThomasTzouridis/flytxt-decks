@@ -3,7 +3,7 @@
 Personalised 6-slide web decks for Tanja Morsch's outreach (Flytxt, enterprise AI for customer value). First campaign: every industry except banking and finance.
 
 Build: `cd _src; py build.py specs/<slug>.json` writes `<slug>/index.html` (+ `logo.*`, `shot.*`). Check: `py tools/render.py <slug> <outdir>` renders every slide to PNG.
-Screenshot and logo of the lead site: `py "..\..\3DforScience\_src\tools\shot.py" <slug> specs <url>`.
+Screenshot of the lead site: `py "..\..\3DforScience\_src\tools\shot.py" <slug> specs <url>`. Logo: `py tools/logo.py <slug> "<Company>" https://<domain> --bg #00141f --out specs --name <slug>_logo.png --on-none text` only (SOP Lead Logo); `build.py` refuses any other logo file; no usable logo means a white wordmark of the company name.
 
 Spec fields (`_src/specs/<slug>.json`): slug, name, first, company, site (caption under the screenshot), logo, logo_color (true = keep the logo's colors instead of the white filter, e.g. waipu.tv), shot, headline (cover), saw[3] (may contain `<b>`), help_intro, cases[3] {head, text, kpi, kpi_label}, call_url (default Tanja's Calendly), linkedin.
 
