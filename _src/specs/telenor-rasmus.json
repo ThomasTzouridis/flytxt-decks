@@ -1,0 +1,38 @@
+{
+ "slug": "telenor-rasmus",
+ "name": "Rasmus",
+ "first": "Rasmus",
+ "company": "Telenor",
+ "site": "telenor.com · Telecommunications group, Norway",
+ "logo": "telenor-rasmus_logo.png",
+ "shot": "telenor-rasmus_shot.jpg",
+ "headline": "Turn Telenor’s usage data into offers that keep customers.",
+ "saw": [
+  "Your homepage puts a business segment and current promotions and discounts in front of every visitor the same way, next to news, quarterly results and investor material.",
+  "Once a customer is on your network, usage, top-ups and the moment usage stops are your strongest signals for the next offer and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, top-up gaps and service contacts, picking the right offer, channel and moment for each person and testing continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Right add-on for each customer",
+   "text": "Next best plan, bundle and add-on per customer, based on usage and the segment they belong to, including business accounts, instead of one blanket upsell mail.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the service in use, every week",
+   "text": "Personal nudges in email, SMS and push when usage slips, with the offer or tip each customer is most likely to act on, instead of one message for everyone.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
