@@ -1,0 +1,38 @@
+{
+ "slug": "odido-martijn",
+ "name": "Martijn",
+ "first": "Martijn",
+ "company": "Odido",
+ "site": "odido.nl · Mobile and fibre provider, Netherlands",
+ "logo": "odido-martijn_logo.svg",
+ "shot": "odido-martijn_shot.jpg",
+ "headline": "Turn Odido’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile subscriptions, fibre, TV and Unlimited plans to every visitor the same way, whether they come for an iPhone, a Sim Only deal or a children&rsquo;s subscription.",
+  "Once a customer logs in, their data use, prepaid or postpaid status and family line usage are the strongest signals for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week, a prepaid user near the end of a bundle, gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from data use, top ups and contract end dates. The right offer, channel and moment for each line, picked and tested across mobile and fibre.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Upgrade only when the plan fits",
+   "text": "Next best plan, add-on and family line per customer, triggered by actual usage. No more blanket upgrade mails to customers already on a plan that suits them.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every line in use every week",
+   "text": "Personal content and usage nudges on TV, by email and in My account. Orchestrated so every household has a reason to use Odido again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
