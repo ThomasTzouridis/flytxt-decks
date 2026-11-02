@@ -1,0 +1,38 @@
+{
+ "slug": "tui-lara",
+ "name": "Lara",
+ "first": "Lara",
+ "company": "TUI",
+ "site": "tui.com · Package holidays and flights, Austria",
+ "logo": "tui-lara_logo.png",
+ "shot": "tui-lara_shot.jpg",
+ "headline": "Turn TUI’s booking data into repeat trips, not one-off deals.",
+ "saw": [
+  "Your homepage sells package holidays, flights, hotel brands and last minute deals to every visitor the same way, whether they are planning a family trip or a single getaway.",
+  "Every booking, every destination a customer opens and every family or hotel page they return to is the strongest signal you have for the next trip. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The guest who booked a family hotel and is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Catch lapsing guests before they book elsewhere",
+   "text": "Retention signals per guest from bookings, rebooking questions and visits to family hotel pages. The right offer, channel and moment for each guest, not one mailing for all.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each guest to the next trip",
+   "text": "Next best trip, hotel or flight per guest, based on bookings and browsing, instead of the same deals sent to everyone. Used in email and homepage picks.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep trip planning going between bookings",
+   "text": "Personal destination and deal nudges through email and your homepage, so every guest has a reason to plan the next trip before the season moves on.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
