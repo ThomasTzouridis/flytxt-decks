@@ -1,0 +1,38 @@
+{
+ "slug": "tele2-anton",
+ "name": "Anton",
+ "first": "Anton",
+ "company": "Tele2",
+ "site": "tele2.com · Telecom operator, Sweden",
+ "logo": "tele2-anton_logo.png",
+ "shot": "tele2-anton_shot.jpg",
+ "headline": "Turn Tele2’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells subscription plans, family offers, home internet, streaming and a business segment to every visitor the same way, with promotions on top, whoever they are.",
+  "Once a customer is on a plan, what they stream, how much data they use and which add-ons they ignore is the strongest signal for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all, whether it is a family plan or a fibre line."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Catch cancellations before they happen",
+   "text": "Per customer churn signals from usage, plan changes and support contacts. The right offer, channel and moment for each subscriber, tested continuously against a holdout group.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right plan or add-on, not all of them",
+   "text": "Next best plan, family line or fibre add-on for each customer, triggered by what they already use. Customers on a plan that fits stop getting upgrade mails.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every plan in active use",
+   "text": "Personal streaming, TV and data nudges by email and push, so every customer sees a reason to use their plan this week. Orchestrated per customer, not per monthly campaign.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
