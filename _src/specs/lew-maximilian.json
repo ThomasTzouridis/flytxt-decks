@@ -1,0 +1,38 @@
+{
+ "slug": "lew-maximilian",
+ "name": "Maximilian",
+ "first": "Maximilian",
+ "company": "LEW",
+ "site": "lew.de · Regional energy supplier, Bavarian Swabia",
+ "logo": "lew-maximilian_logo.png",
+ "shot": "lew-maximilian_shot.jpg",
+ "headline": "Turn LEW’s usage data into customers who stay.",
+ "saw": [
+  "Your homepage sells electricity for your home from renewable sources, fibre internet and a tariff for everyone, and every visitor sees the same offer whether they are new or already a customer.",
+  "Once a household logs into its customer account, consumption, tariff changes and service requests are the strongest signals for the next offer or the next switch. Today that signal sits in analytics, not in the message the customer receives.",
+  "Retention and cross-sell campaigns are built by hand, per segment, per month. The household that is about to leave this week, or that has just slipped onto basic supply, gets the same letter as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the notice arrives",
+   "text": "Churn signals per household from consumption, tariff changes and account activity. The right offer, channel and moment, picked for each customer and tested continuously, before the cancellation.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right tariff to each household",
+   "text": "Next best tariff or fibre add-on per household, based on consumption and what it already holds. No more blanket mails to customers already on the right tariff.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every household engaged with its account",
+   "text": "Personal nudges on energy use, green power and service news, in email, on the website and in the customer account, so each household has a reason to log in.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
