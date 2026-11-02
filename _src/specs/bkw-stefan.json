@@ -1,0 +1,38 @@
+{
+ "slug": "bkw-stefan",
+ "name": "Stefan",
+ "first": "Stefan",
+ "company": "BKW",
+ "site": "bkw.ch · Energy and solar services, Switzerland",
+ "logo": "bkw-stefan_logo.png",
+ "shot": "bkw-stefan_shot.jpg",
+ "headline": "Turn BKW’s usage data into customers who stay.",
+ "saw": [
+  "Your homepage sells solar, heating, charging and smart home to private customers, and every visitor sees the same page, whether they came for solar or to replace their heating.",
+  "Once a customer logs into their account, the signal you already own is how their household uses energy, when they charge the car, and which offers they open. Today that signal sits in analytics, not in the message they receive.",
+  "Newsletter and promotion campaigns for solar, heating and charging are built by hand, per segment, per month. The household about to switch supplier this week gets the same promotion as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before it happens",
+   "text": "Churn signals per household from logins, consumption changes and tariff views. The right offer, channel and moment, picked for each customer, not each segment.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer solar or charging when it fits",
+   "text": "Next best product per customer across solar, heating, charging and smart home, triggered by what the household already uses. No more blanket promotions to people who already have it.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep every customer engaged, every week",
+   "text": "Personal nudges in account and email, such as a consumption insight or a tip for the next month, so every customer has a reason to log in again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
