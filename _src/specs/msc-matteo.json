@@ -1,0 +1,38 @@
+{
+ "slug": "msc-matteo",
+ "name": "Matteo",
+ "first": "Matteo",
+ "company": "MSC",
+ "site": "msccruises.com · Cruise travel arrangements, Switzerland",
+ "logo": "msc-matteo_logo.png",
+ "shot": "msc-matteo_shot.jpg",
+ "headline": "Turn MSC’s booking data into repeat cruises that stay.",
+ "saw": [
+  "Your cruise bookings serve two kinds of people at once, guests who have already sailed and people still deciding. Does a returning guest see a different offer from a first-time visitor, or the same one as everyone else?",
+  "Booking history, cabin upgrades, shore excursion purchases and the cruises guests never rebook are the strongest signals you own. Today that signal sits in analytics and reporting, not in the message the guest receives.",
+  "Cross-sell, upsell and retention campaigns are usually planned by hand, per segment, per month. The guest who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep past guests booking before they lapse",
+   "text": "Per guest signals such as booking gaps and cabin changes flag who is drifting away. The right offer, channel and timing is picked for each guest and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match the next cruise to each guest",
+   "text": "Next best cruise, cabin upgrade or shore excursion per guest, based on what they booked before. Fewer blanket campaigns, more offers that a guest actually acts on.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep guests engaged between sailings",
+   "text": "Personal inspiration in email and push, timed to each guest, not sent to the full list. Every guest gets a reason to look at MSC again between sailings.",
+   "kpi": "86%",
+   "kpi_label": "lower email cost at a Tier-1 African MNO"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
