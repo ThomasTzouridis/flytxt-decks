@@ -1,0 +1,38 @@
+{
+ "slug": "snowworld-maarten",
+ "name": "Maarten",
+ "first": "Maarten",
+ "company": "SnowWorld",
+ "site": "snowworld.com · Indoor ski slopes, Netherlands",
+ "logo": "snowworld-maarten_logo.png",
+ "shot": "snowworld-maarten_shot.jpg",
+ "headline": "Turn SnowWorld’s booking data into visits that repeat.",
+ "saw": [
+  "Your homepage sells ski passes, fondue, winter packages and an overnight stay to every visitor the same way, whether they came for a first lesson or a subscription.",
+  "Once someone has skied with you, which packages they book, how often they return and which lessons they never follow up on is your strongest signal for the next visit. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The guest who is about to stop booking this week gets the same newsletter offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per customer signals from booking gaps, package use and newsletter engagement flag who is drifting away. The right offer, channel and moment, picked for each guest and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next package when it fits",
+   "text": "Next best package, add-on or subscription per customer, based on past bookings. Fondue for the group, a lesson for the first timer, a season plan for the regular.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Give every guest a reason to return",
+   "text": "Personal nudges by newsletter, email and homepage, timed to each customer’s past visits and the season. Every guest sees a reason to book again, not the same winter message.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
