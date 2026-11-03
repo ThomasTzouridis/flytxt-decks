@@ -1,0 +1,38 @@
+{
+ "slug": "marriott-kr",
+ "name": "Kr",
+ "first": "Kr",
+ "company": "Marriott",
+ "site": "marriott.com · Hospitality company, United States",
+ "logo": "marriott-kr_logo.png",
+ "shot": "marriott-kr_shot.jpg",
+ "headline": "Turn Marriott’s booking data into stays that repeat.",
+ "saw": [
+  "In hotel groups, the homepage usually shows the same rates and packages to every visitor, whether they come for a business stay, a family holiday or a long weekend away.",
+  "The signal you already own is stay history: when customers book, how far ahead, which room types they choose, whether they extend, upgrade or cancel. That signal sits in revenue and booking reports, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are typically built by hand, per segment, per month. The customer who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from booking gaps, cancellations and lapsed stays, so the at-risk customer gets the right offer, channel and moment this week, not in next quarter’s campaign.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right upgrade, per customer",
+   "text": "Next best offer per customer for upgrades, room categories and add-on stays, chosen from each customer’s booking history and timing, instead of one rate sheet sent to every segment.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep every customer engaged without blanket mail",
+   "text": "Personal messages across email and web, orchestrated per customer so each one has a reason to book again, while blanket mailings to people who ignore them stop.",
+   "kpi": "86%",
+   "kpi_label": "lower email cost at a Tier-1 African MNO"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
