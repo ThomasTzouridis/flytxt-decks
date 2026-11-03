@@ -1,0 +1,38 @@
+{
+ "slug": "sunweb-sjors",
+ "name": "Sjors",
+ "first": "Sjors",
+ "company": "Sunweb",
+ "site": "sunwebgroup.com · Travel arrangements, Netherlands",
+ "logo": "sunweb-sjors_logo.png",
+ "shot": "sunweb-sjors_shot.jpg",
+ "headline": "Turn Sunweb’s booking data into repeat trips that stay.",
+ "saw": [
+  "Across travel arrangements, the same packages and deals are put in front of every visitor, whether a returning family or a first time booker. The message is built for the average traveller, not the person on the screen.",
+  "Booking dates, destinations revisited and offers ignored are the strongest signal for the next trip and the next lapse. Today that signal sits in analytics, not in the message the traveller receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The traveller who is about to cancel or let a booking lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per traveller, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per customer signals from booking dates, trip changes and support contacts show who is drifting away. The right offer, channel and moment, picked for each traveller and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right next trip",
+   "text": "Next best holiday, add-on or upgrade per customer, based on past bookings and how they travel. No more blanket mailings to travellers who already have what the campaign pushes.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep travellers planning, every week",
+   "text": "Personal inspiration and destination nudges by email and push, timed to each traveller’s planning stage so every customer has a reason to come back between trips.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
