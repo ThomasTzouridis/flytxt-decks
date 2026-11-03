@@ -1,0 +1,38 @@
+{
+ "slug": "norlys-brian",
+ "name": "Brian Borella",
+ "first": "Brian Borella",
+ "company": "Norlys",
+ "site": "norlys.dk · Energy, internet and TV, Denmark",
+ "logo": "norlys-brian_logo.png",
+ "shot": "norlys-brian_shot.jpg",
+ "headline": "Turn Norlys’s usage data into bundles that stay.",
+ "saw": [
+  "Your homepage sells energy, internet and TV from the same place, with tariffs, promotions and a mobile shop, and every visitor sees it the same way, whether they came for power or for a new phone.",
+  "The products customers use, the mobile plans they outgrow and the add-ons they never touch are the strongest signal you have for the next offer and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns for power, broadband, TV and mobile are built by hand, per segment, per month. The household that is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per household from usage, plan changes and support contacts across power, broadband, TV and mobile. The right offer, channel and moment for each customer, before they leave.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product when it fits",
+   "text": "Next best plan, add-on or bundle per customer, triggered by what they already use, such as a mobile plan that no longer fits or internet without TV.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep TV and streaming in use",
+   "text": "Personal TV, streaming and channel nudges in email and text messages, so every customer has a reason to use what they already pay for, every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
