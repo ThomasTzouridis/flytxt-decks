@@ -1,0 +1,38 @@
+{
+ "slug": "essent-jurr",
+ "name": "Jurr",
+ "first": "Jurr",
+ "company": "Essent",
+ "site": "essent.nl · Energy supplier, Netherlands",
+ "logo": "essent-jurr_logo.png",
+ "shot": "essent-jurr_shot.jpg",
+ "headline": "Turn Essent’s usage data into contracts that stay.",
+ "saw": [
+  "Your homepage sells fixed contracts, energy tariffs, home batteries and airco to every visitor the same way, whether they arrive to compare prices or to move house.",
+  "Once a customer is on a contract, meter readings, app use, bill checks and contract logins are the strongest signal you own for the next move. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns for solar, batteries and airco are built by hand, per segment, per month. The customer about to leave at the end of a contract this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from app use and bill checks, flagged before the contract ends. The right offer, channel and moment for each customer, tested in app and email.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Make the upgrade offer fit the household",
+   "text": "Next best tariff, add-on or home battery per customer, triggered by what they already use. No more blanket mails to customers who already have the right contract.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the app in use, every month",
+   "text": "Personal nudges in app, email and bill messages, orchestrated so each customer sees a reason to come back and check their contract.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
