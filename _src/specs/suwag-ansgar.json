@@ -1,0 +1,38 @@
+{
+ "slug": "suwag-ansgar",
+ "name": "Ansgar",
+ "first": "Ansgar",
+ "company": "Süwag",
+ "site": "suewag.de · Energy supplier, Germany",
+ "logo": "suwag-ansgar_logo.png",
+ "shot": "suwag-ansgar_shot.jpg",
+ "headline": "Turn Süwag’s usage data into contracts that stay.",
+ "saw": [
+  "Your homepage sells electricity and gas tariffs, the Süwag Vorteilsprogramm and a promotion to every visitor the same way, whether they come as a household or a business customer.",
+  "Once a customer is in your app or my account, consumption, tariff renewals and the offers they never open are the strongest signal you have for the next switch. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The customer who is about to switch supplier this week gets the same tariff letter as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the renewal letter",
+   "text": "Signals of switching risk per customer from consumption changes, tariff renewal dates and contact history. The right offer, channel and moment picked for each household, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right tariff to each household",
+   "text": "Next best tariff, add-on or Vorteilsprogramm benefit per customer, chosen from consumption and tariff history. No more blanket tariff letters to households already on the right plan.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep the app in use every week",
+   "text": "Personal usage insights, tariff tips and Vorteilsprogramm nudges in app, email and push, orchestrated so every customer has a reason to log in to my account again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
