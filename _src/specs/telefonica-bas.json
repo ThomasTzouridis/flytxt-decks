@@ -1,0 +1,38 @@
+{
+ "slug": "telefonica-bas",
+ "name": "Bas",
+ "first": "Bas",
+ "company": "Telefónica",
+ "site": "o2.de · Mobile and home internet, Germany",
+ "logo": "telefonica-bas_logo.png",
+ "shot": "telefonica-bas_shot.jpg",
+ "headline": "Turn o2’s usage data into tariffs that stay.",
+ "saw": [
+  "Your homepage sells unlimited deals, smartphone contracts and home internet from 19,99 € a month to every visitor the same way, whether they come for the iPhone 17 Pro or the Samsung Galaxy S26 Ultra.",
+  "Once customers are logged in, what they use, when prepaid customers top up and which add-ons they never touch is the strongest signal you own. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. A prepaid customer about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, top-ups and contract end dates. The right offer, channel and moment, picked for each prepaid and postpaid customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right upgrade per customer",
+   "text": "Next best tariff, smartphone or home internet offer per customer, based on what they actually use. Family bundle holders stop getting the same upgrade mail as everyone else.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the plan",
+   "text": "Personal streaming, TV and data bundle nudges per customer, so every customer finds a reason to use what they pay for. Delivered by email and on your site.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
