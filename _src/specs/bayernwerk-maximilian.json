@@ -1,0 +1,38 @@
+{
+ "slug": "bayernwerk-maximilian",
+ "name": "Maximilian",
+ "first": "Maximilian",
+ "company": "Bayernwerk",
+ "site": "bayernwerk.de · Energy utility, Germany",
+ "logo": "bayernwerk-maximilian_logo.png",
+ "shot": "bayernwerk-maximilian_shot.jpg",
+ "headline": "Turn Bayernwerk’s usage data into contracts that stay.",
+ "saw": [
+  "In most utilities, every household sees the same tariffs and offers whatever its consumption, contract age or payment record. That makes every message a guess for most of the base.",
+  "Consumption, meter readings, payment behaviour and contract end dates are the strongest signals you own for the next offer and the next switch. Today they sit in billing and analytics, not in the message the customer receives.",
+  "Cross-sell and retention campaigns are usually built by hand, per segment, per month. The household about to switch this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before it happens",
+   "text": "Per household, the AI reads consumption shifts, billing friction and contract end dates to spot who is about to leave, then picks the offer, channel and moment for each.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next product that fits",
+   "text": "Next best offer per customer, based on tariff, usage pattern and what each household already holds. Blanket mailings to the base stop, and each customer gets one relevant offer.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep customers in the app, every month",
+   "text": "Personal nudges in app, email and push, tied to real usage: consumption feedback, savings tips and service news, orchestrated so each customer sees a reason to log in again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
