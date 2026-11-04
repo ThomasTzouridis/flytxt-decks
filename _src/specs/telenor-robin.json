@@ -1,0 +1,38 @@
+{
+ "slug": "telenor-robin",
+ "name": "Robin",
+ "first": "Robin",
+ "company": "Telenor",
+ "site": "telenor.com · Telecommunications group, Norway",
+ "logo": "telenor-robin_logo.png",
+ "shot": "telenor-robin_shot.jpg",
+ "headline": "Turn Telenor’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage puts a business segment and a promotion or discount in front of every visitor the same way, whether they came to buy, to read the latest news or to check the investor pages.",
+  "The signal you already own is what customers use, buy, switch and stop paying for across the Nordics and Asia. Today that signal sits in analytics and reporting, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The business customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Early churn signals per business customer from usage drops, contract timing and support contacts. The right offer, channel and moment, picked for each account and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Match each account to its next offer",
+   "text": "Next best product and bundle per business customer, based on what they use and buy. Promotions reach the accounts they fit, not every visitor and every mailing list.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every account in active use",
+   "text": "Personal usage nudges and product tips per account, in the channels each customer responds to, so usage stays up and the next upgrade has a reason to happen.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
