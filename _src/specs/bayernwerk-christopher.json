@@ -1,0 +1,38 @@
+{
+ "slug": "bayernwerk-christopher",
+ "name": "Christopher",
+ "first": "Christopher",
+ "company": "Bayernwerk",
+ "site": "bayernwerk.de · Energy utility, Germany",
+ "logo": "bayernwerk-christopher_logo.png",
+ "shot": "bayernwerk-christopher_shot.jpg",
+ "headline": "Turn Bayernwerk’s usage data into contracts that stay.",
+ "saw": [
+  "In a sector like yours, public tariff and contract messages usually reach every visitor the same way, whatever their home, consumption or contract end date.",
+  "Meter readings, consumption curves, invoice payments and switching requests are the strongest signals a utility holds for the next offer and the next cancellation. Today that signal sits in billing and analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per month. The customer whose contract ends this week gets the same letter as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the contract ends",
+   "text": "Churn signals per customer from consumption drops, late payments and switching enquiries. The right offer, channel and moment, picked for each household and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right product to each customer",
+   "text": "Next best product per customer, a tariff bundle or energy service, chosen from usage data. Sent in the channel each customer opens instead of a blanket mailing.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep customers engaged with their energy",
+   "text": "Personal usage insights and service nudges per customer, across the channels each household already uses, so every customer has a reason to check consumption again. Timing picked per customer.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
