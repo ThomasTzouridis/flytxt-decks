@@ -190,7 +190,7 @@ try:
 except Exception as e: print('logo tool failed', e)
 if not logo_file:
     sys.path.insert(0, os.path.join(SRC, 'tools')); import logo as _lg
-    logo_file = slug + '_logo.png'; _lg.wordmark(company, (255, 255, 255)).save(os.path.join(SPECS, logo_file)); print('logo: text wordmark fallback')
+    logo_file = slug + '_logo.png'; _lg.write_text(company, os.path.join(SPECS, logo_file), (255, 255, 255), why='logo tool gave no file'); print('logo: text wordmark fallback')
 print('logo', logo_file)
 
 # ---------- 3. the one model call ----------
