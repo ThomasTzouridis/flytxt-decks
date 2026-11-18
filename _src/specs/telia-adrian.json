@@ -1,0 +1,38 @@
+{
+ "slug": "telia-adrian",
+ "name": "Adrian",
+ "first": "Adrian",
+ "company": "Telia",
+ "site": "teliacompany.com · Digital sales team, customer channels",
+ "logo": "telia-adrian_logo.png",
+ "shot": "telia-adrian_shot.jpg",
+ "headline": "Turn Telia’s purchase data into offers that keep customers.",
+ "saw": [
+  "As Head of Digital Sales, you already know that the same offer often reaches a customer who is about to upgrade and one who is about to leave, because most digital sales messages go out to whole segments at once.",
+  "The signal you already own, what a customer buys, renews, adds, or lets lapse across your digital channels, sits in sales and analytics reports, not in the message the customer receives next.",
+  "Cross-sell, upsell and retention campaigns are usually planned by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from purchase history, renewal dates and service contacts. The right offer, channel and moment, chosen for each customer and tested continuously across your digital channels.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next step when it fits",
+   "text": "Next best offer per customer, based on what they already buy and what similar customers add next. No more blanket cross-sell mailings to people who already have the product.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the product in use, every week",
+   "text": "Personal nudges across email and your other digital channels, chosen per customer, so each one has a reason to use the service again. Orchestrated across channels, not sent as one batch.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
