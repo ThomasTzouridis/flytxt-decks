@@ -1,0 +1,38 @@
+{
+ "slug": "sunclass-filip",
+ "name": "Filip",
+ "first": "Filip",
+ "company": "Sunclass",
+ "site": "sunclassairlines.dk · Charter airline, Denmark",
+ "logo": "sunclass-filip_logo.png",
+ "shot": "sunclass-filip_shot.jpg",
+ "headline": "Turn Sunclass’s booking data into upgrades that stay.",
+ "saw": [
+  "Your homepage sells charter flights across the Nordics and surfaces cabin classes, meals on board, inflight entertainment and the option to upgrade your flight. Every visitor, whether they are a first-time traveller or a regular, sees the same offer.",
+  "Once a passenger has booked, the cabin class they pick, the meals they choose, what they use in flight and whether they take the upgrade are your strongest signals. Today they sit in analytics, not in the message the passenger receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The passenger who is likely to book elsewhere this week gets the same upgrade offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per passenger, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep the passenger before they book elsewhere",
+   "text": "Passenger signals from booking history and flight use show who is about to stop flying with you. The right offer, channel and moment for each one, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the upgrade that fits each passenger",
+   "text": "Next best cabin, meal or add-on per passenger, triggered by what they booked and used. No more blanket upgrade mails to people already in the top cabin.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the passenger engaged between flights",
+   "text": "Personal nudges for meals on board, inflight entertainment and the next trip, sent by the channel and moment each passenger responds to.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
