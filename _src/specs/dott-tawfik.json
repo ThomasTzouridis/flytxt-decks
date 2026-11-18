@@ -1,0 +1,38 @@
+{
+ "slug": "dott-tawfik",
+ "name": "Tawfik",
+ "first": "Tawfik",
+ "company": "Dott",
+ "site": "ridedott.com · Micromobility ride sharing, Netherlands",
+ "logo": "dott-tawfik_logo.png",
+ "shot": "dott-tawfik_shot.jpg",
+ "headline": "Turn Dott’s usage data into riders who stay.",
+ "saw": [
+  "Your homepage sells micromobility under the banner of the European Champion, next to a promotion or discount, and every visitor sees it the same way, whether they come to ride or to join.",
+  "Once someone rides with you, how often they ride, where trips end and which discounts they redeem is the clearest signal for the next upgrade and the next lapse. Today that signal sits in analytics, not in the message the rider receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per city, per segment, per month. The rider who is about to stop riding this week gets the same discount as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per rider, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per rider from ride frequency, trip endings and discount use. The right offer, channel and moment, picked for each rider and tested continuously across your cities.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Make every offer personal to the rider",
+   "text": "Next best offer per rider, from the discounts they already redeem and the trips they take. No more blanket promotions sent to riders who would have ridden anyway.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep riders coming back every week",
+   "text": "Personal trip nudges in app, push and email, built from each rider’s usual routes and timing, so every rider sees a reason to take another ride this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
