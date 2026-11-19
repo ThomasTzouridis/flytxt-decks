@@ -1,0 +1,38 @@
+{
+ "slug": "sunrise-sebastian",
+ "name": "Sebastian",
+ "first": "Sebastian",
+ "company": "Sunrise",
+ "site": "sunrise.ch · Mobile and internet operator, Switzerland",
+ "logo": "sunrise-sebastian_logo.png",
+ "shot": "sunrise-sebastian_shot.jpg",
+ "headline": "Turn Sunrise’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile with 5G, internet up to 10 Gbit/s and TV and entertainment, and discounts up to 75% on data SIMs, to every visitor the same way, whether they are a prepaid user, a home internet customer or a business client.",
+  "Data use, roaming trips, TV viewing and prepaid top ups are the strongest signals you have for the next upgrade or cancellation. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A prepaid customer about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per subscriber, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per subscriber from data use, roaming trips and top ups. The right offer, channel and moment, picked for each customer across prepaid, postpaid and home internet.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan or add-on per customer, triggered by usage, such as a prepaid user with frequent roaming. No more blanket mails to people on the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep TV and data in use weekly",
+   "text": "Personal TV and content nudges by email and text, so every customer sees a reason to use Sunrise again this week, from streaming to a data pack.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
