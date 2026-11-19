@@ -1,0 +1,38 @@
+{
+ "slug": "sunrise-himanshu",
+ "name": "Himanshu",
+ "first": "Himanshu",
+ "company": "Sunrise",
+ "site": "sunrise.ch · Mobile, internet and TV provider, Switzerland",
+ "logo": "sunrise-himanshu_logo.png",
+ "shot": "sunrise-himanshu_shot.jpg",
+ "headline": "Turn Sunrise’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile with 5G, internet up to 10 Gbit/s, TV and entertainment, and 33% off devices for 12 months to every visitor the same way, whether they arrive as a business, a prepaid user or a home internet customer.",
+  "Once a customer is logged in, what they stream, how much mobile data they use and when they roam is your strongest signal for the next upgrade and the next cancellation. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A mobile customer who is about to leave this week gets the same offer as everyone else, or none."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from mobile data use, roaming trips and plan changes. The right offer, channel and moment for each one, tested against the customers you would otherwise lose.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right plan when it fits",
+   "text": "Next best plan or add-on for each customer, based on what they stream and how they use mobile data. No more blanket upgrade mails to customers on a fitting plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep TV and streaming in use, every week",
+   "text": "Content and channel nudges in email, push and on your site, orchestrated so every customer sees a reason to watch again. Usage gaps trigger the next message, not a calendar.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
