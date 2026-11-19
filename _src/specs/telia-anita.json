@@ -1,0 +1,38 @@
+{
+ "slug": "telia-anita",
+ "name": "Anita",
+ "first": "Anita",
+ "company": "Telia",
+ "site": "teliacompany.com · Telecommunications provider, Sweden",
+ "logo": "telia-anita_logo.png",
+ "shot": "telia-anita_shot.jpg",
+ "headline": "Turn Telia’s usage data into subscriptions that stay.",
+ "saw": [
+  "In a telecom base like yours, offers usually go out in the same form to everyone on a plan, whatever they actually use each month, so every customer receives the same message.",
+  "Usage data is the strongest signal you own: data consumption, roaming, top ups, plan changes and the moment a line goes quiet. Today that signal sits in analytics and reporting, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, plan changes and support contacts. The right offer, channel and moment, picked for each customer and tested continuously across mail and SMS.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan and add-on per customer, triggered by how they actually use the service. No more blanket upgrade mails to customers who already have the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service",
+   "text": "Personal usage nudges per customer, orchestrated so each one sees a reason to use the service again this week, not in next quarter’s campaign.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
