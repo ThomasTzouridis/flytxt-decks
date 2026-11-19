@@ -1,0 +1,38 @@
+{
+ "slug": "viaplay-anders",
+ "name": "Anders",
+ "first": "Anders",
+ "company": "Viaplay",
+ "site": "viaplaygroup.com · Streaming and TV, Nordic region",
+ "logo": "viaplay-anders_logo.png",
+ "shot": "viaplay-anders_shot.jpg",
+ "headline": "Turn Viaplay’s viewing data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells subscription plans across live sports, movies, series, music and your own original shows, and every visitor sees the same offer whether they come for live sport or for drama.",
+  "Once a viewer is watching, what they stream, when they stop, and which genres they never open is the strongest signal you have for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The subscriber who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per subscriber, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per subscriber from viewing patterns, pauses and support contacts. The right offer, channel and moment for each subscriber across live sport, series and movies, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan and add-on per subscriber, triggered by what they watch, from sport to original shows. No more blanket upgrade emails to people who already have the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every subscriber watching each week",
+   "text": "Personal content nudges by email and on screen, so every subscriber has a reason to come back this week, whether they follow sport, series or music.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
