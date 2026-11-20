@@ -1,0 +1,38 @@
+{
+ "slug": "dott-begum",
+ "name": "Begum",
+ "first": "Begum",
+ "company": "Dott",
+ "site": "ridedott.com · Micromobility sharing, Netherlands",
+ "logo": "dott-begum_logo.png",
+ "shot": "dott-begum_shot.jpg",
+ "headline": "Turn Dott’s usage data into riders who stay.",
+ "saw": [
+  "Your homepage sells rides with a promise of pollution-free cities, the &ldquo;European Champion of micromobility&rdquo; line and a call to hop on board, and shows the same promotions and discounts to every visitor.",
+  "Once someone rides, the trips they take, the routes they repeat and the promotions they ignore are your strongest signal for the next ride and the next lapse. Today that signal sits in analytics, not in the message riders receive.",
+  "Retention and cross-sell campaigns are built by hand, per city, per month. The rider who is about to lapse this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per rider, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per rider signals from trips, repeat routes and promotion responses, flagging who is about to lapse this week. The right offer, channel and moment, chosen for each rider.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Send each rider the offer that fits",
+   "text": "Next best offer per rider, based on routes, trip frequency and the promotions they respond to. Blanket discounts to every visitor give way to one relevant offer per rider.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep riders on the road every week",
+   "text": "Personal route, city and promotion nudges across email and your homepage, timed to each rider’s usual pattern, so every rider has a reason to ride again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
