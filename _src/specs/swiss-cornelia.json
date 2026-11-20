@@ -1,0 +1,38 @@
+{
+ "slug": "swiss-cornelia",
+ "name": "Cornelia",
+ "first": "Cornelia",
+ "company": "Swiss",
+ "site": "swiss.com · Airline and aviation, Switzerland",
+ "logo": "swiss-cornelia_logo.png",
+ "shot": "swiss-cornelia_shot.jpg",
+ "headline": "Turn Swiss’s booking data into repeat bookings that last.",
+ "saw": [
+  "Most airline marketing speaks to every traveller in the same way, whether they fly for business every week or once a year for a holiday. The offer that reaches a frequent flyer is often the one a leisure traveller already ignored.",
+  "Bookings, changes, seat choices, cancellations and the moment a traveller stops flying with you are the strongest signals you have for the next offer. Today that signal sits in analytics and booking reports, not in the message the traveller receives.",
+  "Cross-sell, upsell and retention campaigns are usually built by hand, per segment, per season. The traveller who is about to switch to another carrier this week gets the same message as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Spot the traveller about to switch",
+   "text": "Per-traveller churn signals from booking changes, cancelled flights and lapsing travel frequency. The right offer, channel and moment, chosen for each traveller and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right add-on per trip",
+   "text": "Next best fare, seat, bag or lounge offer for each traveller, based on the routes they book and add-ons they already buy. Fewer blanket mails, more offers that fit.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep every traveller engaged between trips",
+   "text": "Personal destination, content and service nudges in email and SMS, timed around each traveller’s travel pattern, so people who fly rarely still hear from you between trips.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
