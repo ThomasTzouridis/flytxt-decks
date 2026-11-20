@@ -1,0 +1,38 @@
+{
+ "slug": "swiss-emilie",
+ "name": "Emilie",
+ "first": "Emilie",
+ "company": "Swiss",
+ "site": "swiss.com · Airline and aviation, Switzerland",
+ "logo": "swiss-emilie_logo.png",
+ "shot": "swiss-emilie_shot.jpg",
+ "headline": "Turn SWISS’s booking data into customers who fly with you again.",
+ "saw": [
+  "Your homepage sells flights, first-class service and a loyalty programme to every visitor the same way, whether they arrive to book a trip, check a fare or chase a promotion.",
+  "Once a traveller has booked, which routes they repeat, when they add bags or seats and which offers they ignore is your strongest signal for the next upgrade or lost customer. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The frequent flyer who is about to drift to another airline this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the drift to another airline",
+   "text": "Churn signals per traveller from booking gaps, route changes and loyalty activity. The right offer, channel and moment picked for each customer, tested continuously against the blanket campaign.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Right offer per traveller, not per segment",
+   "text": "Next best fare, seat, bag or lounge offer per customer, from booking history and loyalty status. Sent when each one is most likely to act, not one blanket mail.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep every customer engaged between trips",
+   "text": "Personal route, destination and inspiration nudges in your newsletter, email and homepage, orchestrated so every customer has a reason to plan the next trip.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
