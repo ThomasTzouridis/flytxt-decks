@@ -1,0 +1,38 @@
+{
+ "slug": "magenta-matthias",
+ "name": "Matthias",
+ "first": "Matthias",
+ "company": "Magenta",
+ "site": "magenta.at · Telecom and TV, Austria",
+ "logo": "magenta-matthias_logo.png",
+ "shot": "magenta-matthias_shot.jpg",
+ "headline": "Turn Magenta’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile tariffs, home internet, Magenta TV and Magenta Family offers to every visitor in the same way, whether they arrive as a home customer, a family or a business.",
+  "The signal you already own is what customers use, stream and top up: data volumes, Magenta TV viewing, roaming trips and the moment a family adds a line. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. A prepaid customer about to leave this week gets the same Disney+ or Netflix offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Catch the leaver before the cancellation",
+   "text": "Churn signals per line from data usage, top-up gaps and roaming. The right offer, channel and moment for each prepaid and postpaid customer, not one retention mail per segment.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Next offer that fits each household",
+   "text": "Next best tariff, Magenta Family line or streaming add-on per customer, triggered by what they actually use. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service weekly",
+   "text": "Personal TV, data and roaming nudges by email and SMS, so each customer gets a reason to use Magenta again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
