@@ -1,0 +1,38 @@
+{
+ "slug": "a1-valeria",
+ "name": "Valeria",
+ "first": "Valeria",
+ "company": "A1",
+ "site": "a1.net · Mobile and home internet operator, Austria",
+ "logo": "a1-valeria_logo.png",
+ "shot": "a1-valeria_shot.jpg",
+ "headline": "Turn A1’s usage data into offers that keep customers.",
+ "saw": [
+  "Your homepage sells internet bundles, mobile tariffs without contract, youth and prepaid tariffs, and free months of A1 Select to every visitor the same way, whether they come for a new phone or a home internet bundle.",
+  "In the Mein A1 app, what customers use, which add-ons they switch on, when prepaid cards run low and which tariffs they outgrow is your strongest signal for the next upgrade or cancellation. Today it sits in analytics, not in what they receive.",
+  "Cross-sell, upsell and anti churn campaigns for A1 are built by hand, per segment, per month. The customer about to leave this week, like a prepaid user whose top up lapsed, gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, add-on activity and prepaid top ups, with the right offer, channel and moment chosen per person across the Mein A1 app and email.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff, add-on or device offer per customer, triggered by what they actually use. Fewer blanket mails pushing free months to people who already have the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the app",
+   "text": "Personal content, streaming and A1 Vorteilswelt nudges in app and email, so every customer finds a reason to open Mein A1 again each week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
