@@ -1,0 +1,38 @@
+{
+ "slug": "msc-luigi",
+ "name": "Luigi",
+ "first": "Luigi",
+ "company": "MSC",
+ "site": "msccruises.com · Travel arrangements, Switzerland",
+ "logo": "msc-luigi_logo.png",
+ "shot": "msc-luigi_shot.jpg",
+ "headline": "Turn MSC’s booking data into voyages that stay booked.",
+ "saw": [
+  "For a travel arrangements business like MSC, the front door usually sells the same booking path to every visitor, whether they are a first time guest or someone who has sailed before.",
+  "Once a guest has booked, the signal you already own is what they rebook, which sailings they open, when they change dates and which add-ons they skip. Today that signal sits in analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and anti churn campaigns are usually built by hand, per segment, per month. The guest who is about to cancel this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per guest from booking changes, rebooking gaps and service contacts. The right offer, channel and moment, picked for each guest and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next voyage that fits",
+   "text": "Next best voyage, excursion or pre-cruise package per guest, based on past bookings and travel patterns. No more blanket upsell mails to guests already on the right booking.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Keep guests engaged between voyages",
+   "text": "Personal destination, onboard and rebooking content per guest across email and web, orchestrated so every past guest sees a reason to plan the next trip with MSC.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
