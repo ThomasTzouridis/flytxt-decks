@@ -1,0 +1,38 @@
+{
+ "slug": "radisson-mario",
+ "name": "Mario",
+ "first": "Mario",
+ "company": "Radisson",
+ "site": "radissonhotels.com · Global hotel group, Belgium",
+ "logo": "radisson-mario_logo.png",
+ "shot": "radisson-mario_shot.jpg",
+ "headline": "Turn Radisson’s booking data into loyal, repeat stays.",
+ "saw": [
+  "Your homepage sells Black Friday up to 35% off, Plan & Save and Member Only Rate to every visitor the same way, whether they plan a family trip or a business stay.",
+  "The signal you already own is what each guest books, which destinations they return to, when they change dates and how they use their rewards points. Today that signal sits in analytics, not in the message the guest receives.",
+  "Hotel deals, Member Only Rate mails and seasonal campaigns are built by hand, per segment, per month. The guest who is about to lapse this week gets the same Black Friday offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Per guest churn signals from booking gaps, dropped member activity and changed travel dates. The right offer, channel and moment for each guest, from email to the homepage, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next stay that fits",
+   "text": "Next best offer per guest for rewards members and families. Every guest gets the stay, add-on or rate that fits, not a blanket Black Friday mail.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep guests exploring between stays",
+   "text": "Personal destination and rewards nudges by email and homepage, timed to each guest’s own travel rhythm, so every guest sees a reason to explore again between stays.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
