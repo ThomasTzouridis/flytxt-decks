@@ -1,0 +1,38 @@
+{
+ "slug": "telefonica-steven",
+ "name": "Steven",
+ "first": "Steven",
+ "company": "Telefónica",
+ "site": "o2.de · Mobile and home internet, Germany",
+ "logo": "telefonica-steven_logo.png",
+ "shot": "telefonica-steven_shot.jpg",
+ "headline": "Turn o2’s usage data into tariffs customers stay on.",
+ "saw": [
+  "Your homepage sells unlimited deals, top phones and home internet from 19,99 € a month to every visitor in the same way, whether they arrive for a prepaid card or a family plan.",
+  "Once a customer is logged in, which tariffs they open, when they run out of data and whether they add a family line is your strongest signal. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for prepaid, postpaid, family and home internet are typically built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from tariff use, data running out and support contacts. The right offer, channel and moment, picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff, option or add-on per customer, triggered by how they use mobile data and home internet. No more blanket upgrade mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the plan",
+   "text": "Personal nudges to use data bundles, loyalty benefits and family features, across email, SMS and your website, so every customer sees a reason to stay active every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
