@@ -1,0 +1,38 @@
+{
+ "slug": "scandic-helene",
+ "name": "Heléne",
+ "first": "Heléne",
+ "company": "Scandic",
+ "site": "scandichotels.com · Hotel group with 280 hotels, Sweden",
+ "logo": "scandic-helene_logo.png",
+ "shot": "scandic-helene_shot.jpg",
+ "headline": "Turn Scandic’s booking data into stays that come back.",
+ "saw": [
+  "Your homepage sells 280 hotels and 130 destinations, plus meetings, family stays and Scandic Friends, to every visitor the same way, whether they arrive for a weekend break or a conference.",
+  "Once a guest has booked, the hotel they chose, whether they bring children, the offers they redeem and the Friends perks they never use is your strongest signal. Today it sits in analytics, not in the message the guest receives.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The guest who is about to lapse this week gets the same weekend offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Bring lapsing guests back before they leave",
+   "text": "Per guest, the AI reads booking gaps, Friends activity and past stays, then picks the right offer, channel and moment, such as a weekend food deal by app or email.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the next stay for each guest",
+   "text": "Next best hotel, meeting package or family offer per customer, based on what each one booked. Sent by app or email, not as one blanket campaign to the whole base.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep the app in use, every week",
+   "text": "Personal stay ideas, Friends perks and food deals in app, push and email, so every guest has a reason to open Scandic again between bookings. Orchestrated per guest.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
