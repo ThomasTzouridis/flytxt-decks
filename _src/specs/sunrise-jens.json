@@ -1,0 +1,38 @@
+{
+ "slug": "sunrise-jens",
+ "name": "Jens",
+ "first": "Jens",
+ "company": "Sunrise",
+ "site": "sunrise.ch · Mobile, internet and TV provider, Switzerland",
+ "logo": "sunrise-jens_logo.png",
+ "shot": "sunrise-jens_shot.jpg",
+ "headline": "Turn Sunrise’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile with 5G, internet up to 10 Gbit/s and TV & Entertainment, led by discounts on roaming and devices, to every visitor the same way, whether they come for a SIM or a home fibre line.",
+  "What a customer watches, uses or tops up is the strongest signal you own for the next upgrade and the next cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for mobile, internet and TV are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, top ups and plan changes across mobile, internet and TV. The right offer, channel and moment, picked for each customer and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan, add-on or device offer per customer, triggered by what they actually use. No more blanket mails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the TV app",
+   "text": "Personal content and channel nudges in app, push and email, orchestrated so each customer has a reason to open the TV app again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
