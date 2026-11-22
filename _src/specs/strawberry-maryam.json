@@ -1,0 +1,38 @@
+{
+ "slug": "strawberry-maryam",
+ "name": "Maryam",
+ "first": "Maryam",
+ "company": "Strawberry",
+ "site": "strawberry.no · Hotel group in the Nordics, Norway",
+ "logo": "strawberry-maryam_logo.png",
+ "shot": "strawberry-maryam_shot.jpg",
+ "headline": "Turn Strawberry’s booking data into stays that come back.",
+ "saw": [
+  "Your homepage sells hotel stays across more than 250 hotels to every visitor the same way, whether they come for the Black Week Sale, a family package or a Jazz Night.",
+  "Once a guest is a member, which hotels they book, which destinations they return to and which offers they ignore is your strongest signal for the next booking and the next lapse. Today it sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The member who is about to lapse this week gets the same Black Week mail as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Catch lapsing members before they leave",
+   "text": "Per member churn signals from booking gaps, dropped Spenn activity and unopened offers. The right offer, channel and moment, picked for each member and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right stay to each member",
+   "text": "Next best hotel, upgrade and add-on per guest, from their own booking history and destinations. Replaces the blanket Black Week mail sent to members who already booked the right room.",
+   "kpi": "8.6%",
+   "kpi_label": "monthly revenue uplift at Vodafone"
+  },
+  {
+   "head": "Keep members booking, every week",
+   "text": "Personal nudges to stay, dine or attend events, by email and on your site, so every member has a reason to come back this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
