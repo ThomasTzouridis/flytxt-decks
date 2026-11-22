@@ -1,0 +1,38 @@
+{
+ "slug": "deutsche-telekom-tschakawak",
+ "name": "Tschakawak",
+ "first": "Tschakawak",
+ "company": "Deutsche Telekom",
+ "site": "telekom.com · Telecom provider, fibre and TV, Germany",
+ "logo": "deutsche-telekom-tschakawak_logo.png",
+ "shot": "deutsche-telekom-tschakawak_shot.jpg",
+ "headline": "Turn Deutsche Telekom’s usage data into tariffs that stay.",
+ "saw": [
+  "Your homepage sells tariffs, home internet, TV and a business segment to every visitor in the same way, whether they arrive as private customers, business buyers or people looking for a promotion.",
+  "Once a customer is on a tariff, their usage, the add-ons they drop and the calls they make are the strongest signal you have for the next upgrade or cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns for tariffs, fibre and TV are built by hand, per segment, per month. The customer about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from tariff usage, support contacts and promotion response. The right offer, channel and moment for each customer, tested continuously across fibre and TV.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff, add-on or TV package per customer, triggered by what they already use. No more blanket upgrade mails to customers who already have the right tariff.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service",
+   "text": "Personal content, channel and offer nudges per customer, across push, email and your homepage, so every customer has a reason to use their tariff again this week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
