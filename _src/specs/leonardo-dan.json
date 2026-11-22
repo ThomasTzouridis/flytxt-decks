@@ -1,0 +1,38 @@
+{
+ "slug": "leonardo-dan",
+ "name": "Dan",
+ "first": "Dan",
+ "company": "Leonardo",
+ "site": "leonardo-hotels.com · Hotel group in Europe, UK and Israel",
+ "logo": "leonardo-dan_logo.png",
+ "shot": "leonardo-dan_shot.jpg",
+ "headline": "Turn Leonardo’s booking data into guests who come back.",
+ "saw": [
+  "Your homepage sells over 330 hotels and a free loyalty programme with 10% off every online booking to every visitor the same way, whether they are looking at Berlin, London or a business stay.",
+  "Once a guest has stayed, the city they book, how far ahead they plan and whether they return on the member rate is your strongest signal. Today it sits in booking reports, not in the offer the guest receives.",
+  "Newsletter and loyalty campaigns are built by hand, per segment, per month, across family, business and roaming offers. The guest who is about to stop booking this week gets the same newsletter as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Churn signals per guest from booking gaps, city changes and member rate use. The right offer, channel and moment for each guest, across email, newsletter and the website, tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Pick the right offer for each guest",
+   "text": "Next best offer per guest: a family package, business rate or roaming deal, picked from their booking history. Blanket promotions stop reaching guests who already book at the rate they want.",
+   "kpi": "13.6x",
+   "kpi_label": "conversion vs untargeted campaigns, Tier-1 African MNO"
+  },
+  {
+   "head": "Give guests a reason to book again",
+   "text": "City and stay suggestions after each booking, plus member rate reminders timed to each guest’s travel pattern. Every guest gets a reason to plan the next stay.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
