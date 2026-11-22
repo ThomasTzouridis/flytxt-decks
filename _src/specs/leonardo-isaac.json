@@ -1,0 +1,38 @@
+{
+ "slug": "leonardo-isaac",
+ "name": "Isaac",
+ "first": "Isaac",
+ "company": "Leonardo",
+ "site": "leonardo-hotels.com · Hotels across Europe, Germany",
+ "logo": "leonardo-isaac_logo.png",
+ "shot": "leonardo-isaac_shot.jpg",
+ "headline": "Turn Leonardo’s booking data into repeat stays.",
+ "saw": [
+  "Your homepage sells direct online bookings across over 330 hotels, with 10% off for AdvantageCLUB members, and shows every visitor the same offer, whether they plan a stay in Berlin or a meeting in London.",
+  "Once a guest has stayed with you, where they return and which destinations they never try is your strongest signal for the next stay and for a guest about to lapse. Today that signal sits in reporting, not in the offer they receive.",
+  "Cross-sell, upsell and retention campaigns for the AdvantageCLUB base are typically built by hand, per segment, per month. The guest who is about to lapse this week gets the same 10% offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per guest, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Keep lapsing members booking with you",
+   "text": "Per-guest lapse signals from booking gaps, member activity and email response. The right offer, channel and moment for each guest, including a member rate reminder before they book elsewhere.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next stay that fits",
+   "text": "Next best room, destination and add-on per guest, based on past stays. No more blanket 10% mails to guests who would have booked anyway.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Give members a reason to book again",
+   "text": "Personal destination, meeting and event nudges by email and on your site, timed to each guest’s booking pattern and not to a calendar.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
