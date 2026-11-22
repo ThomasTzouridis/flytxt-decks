@@ -1,0 +1,38 @@
+{
+ "slug": "tui-lars",
+ "name": "Lars",
+ "first": "Lars",
+ "company": "TUI",
+ "site": "tui.com · Holiday travel and hotels, Austria",
+ "logo": "tui-lars_logo.png",
+ "shot": "tui-lars_shot.jpg",
+ "headline": "Turn TUI’s booking data into trips that get rebooked.",
+ "saw": [
+  "Your homepage sells package holidays, flights and family hotels to every visitor the same way, whether they arrive for Last Minute deals, the Deal der Woche or the Familienurlaub pages.",
+  "Once a customer logs into My account, what they book, which destinations they return to and which family offers they open is your strongest signal for the next trip. Today that signal sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and retention campaigns are built by hand, per segment, per month. The family who booked a summer hotel and is about to go quiet this week gets the same flight offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from bookings, logins and offer clicks, spotting the family who goes quiet before they lapse. The right offer, channel and moment, picked for each traveller.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next trip, not the same deal",
+   "text": "Next best flight, hotel or package per customer, built from what they booked and which family offers they opened. No more blanket mails to people who already have the right trip.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every traveller planning, every week",
+   "text": "Personal destination and deal nudges in email and on the web, so every customer has a reason to come back between bookings, not only when a sale is running.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
