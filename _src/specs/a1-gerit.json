@@ -1,0 +1,38 @@
+{
+ "slug": "a1-gerit",
+ "name": "Gerit",
+ "first": "Gerit",
+ "company": "A1",
+ "site": "a1.net · Telecommunications operator, Austria",
+ "logo": "a1-gerit_logo.png",
+ "shot": "a1-gerit_shot.jpg",
+ "headline": "Turn A1’s usage data into subscriptions that stay.",
+ "saw": [
+  "Telecom front doors usually sell the same plans and upgrades to every visitor in the same way, whether they are new, long standing or already on the right contract.",
+  "Every customer already generates a signal: which services they use, how much data they consume, when usage drops and which add-ons they never touch. That signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage drops, billing contacts and support history. The right offer, channel and moment picked for each customer and tested continuously against the base.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next add-on when it fits",
+   "text": "Next best offer per customer, based on the services they already use and the ones they never touch. No more blanket upgrade mails to customers already covered.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every customer using the service",
+   "text": "Personal nudges across push, email and messaging, timed to each customer’s usage pattern, so every customer has a reason to use what they pay for each week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
