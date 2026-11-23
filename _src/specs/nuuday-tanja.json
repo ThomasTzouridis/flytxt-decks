@@ -1,0 +1,38 @@
+{
+ "slug": "nuuday-tanja",
+ "name": "Tanja",
+ "first": "Tanja",
+ "company": "Nuuday",
+ "site": "nuuday.dk · Telecom and broadband brands, Denmark",
+ "logo": "nuuday-tanja_logo.png",
+ "shot": "nuuday-tanja_shot.jpg",
+ "headline": "Turn Nuuday’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage presents TDC Brands as a set of brands, YouSee, Telmore, Hiper, Relatel, Eesy and TDC Erhverv, with home internet, family offers and promotions shown to every visitor the same way, whether they arrive for fibre or for business lines.",
+  "Once a customer is with you, their usage, the lines and services they add, and the bundles they never touch are your strongest signal for the next upsell or cancellation. Today that signal sits in analytics, not in the message they receive.",
+  "Across YouSee, Telmore and TDC Erhverv, cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The household about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before the invoice arrives",
+   "text": "Per customer, the AI reads usage drops, support contacts and bundle changes across YouSee, Telmore and Hiper, then picks the offer, channel and moment for each household.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next line when it fits",
+   "text": "For each customer, the AI picks the next best add-on, from home internet to family lines or business services in TDC Erhverv, only when their usage shows a real fit.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every line in use, every week",
+   "text": "Per customer, the AI sequences nudges by email, push and call centre contact, helping people use the services they already pay for and reaching out when usage starts to fade.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
