@@ -1,0 +1,38 @@
+{
+ "slug": "yousee-steffen",
+ "name": "Steffen",
+ "first": "Steffen",
+ "company": "YouSee",
+ "site": "yousee.dk · Internet, TV and mobile operator, Denmark",
+ "logo": "yousee-steffen_logo.png",
+ "shot": "yousee-steffen_shot.jpg",
+ "headline": "Turn YouSee’s purchase data into offers that keep customers.",
+ "saw": [
+  "Your homepage sells internet, TV and mobile bundled together, with phone offers and Black week deals at the top, and every visitor sees the same message, whatever plan or device they already have.",
+  "Once a customer is on a tariff, what they watch, which family lines they add and when they start comparing plans is the strongest signal you own for the next upgrade or cancellation. It sits in analytics, not in the message they receive.",
+  "Cross-sell, upsell and anti churn campaigns are built by hand, per segment, per month. The customer who is about to leave this week gets the same mobile or TV offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from usage, tariff changes and support contacts, so the customer about to leave gets the right offer, channel and moment, picked for them and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right tariff or family line",
+   "text": "Next best tariff, family line or device bundle per customer, offered when it fits their usage, instead of blanket mails to people who already have the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the TV bundle in daily use",
+   "text": "Personal TV and content nudges by email, SMS and your homepage, picked per customer from what they watch, so every household has a reason to use the bundle every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
