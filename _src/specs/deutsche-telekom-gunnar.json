@@ -1,0 +1,38 @@
+{
+ "slug": "deutsche-telekom-gunnar",
+ "name": "Gunnar",
+ "first": "Gunnar",
+ "company": "Deutsche Telekom",
+ "site": "telekom.com · Telecommunications and home internet, Germany",
+ "logo": "deutsche-telekom-gunnar_logo.png",
+ "shot": "deutsche-telekom-gunnar_shot.jpg",
+ "headline": "Turn Deutsche Telekom’s network data into renewals that stay.",
+ "saw": [
+  "Your homepage presents tariffs, home internet, TV content and the business segment to every visitor the same way, whether they arrive from a promotion or head for the customer centre.",
+  "Once a customer is on a tariff, how they use the network, what they stream and when they contact support is your signal for the next upgrade and the next cancellation. Today it sits in analytics, not in the message they receive.",
+  "Upgrade, cross-sell and retention campaigns for tariffs and home internet are built by hand, per segment, per month. The customer about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Per-customer churn signals from tariff use, network experience and support contacts. The right offer, channel and moment for each customer, tested continuously, before the cancellation is filed.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next tariff when it fits",
+   "text": "Next best tariff, home internet or TV add-on per customer, triggered by actual usage. No more blanket upgrade emails to customers already on the right plan.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the service in use, every week",
+   "text": "Personal TV and content suggestions across web, email and customer centre touchpoints, so each customer has a reason to use what they already pay for, every week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
