@@ -1,0 +1,38 @@
+{
+ "slug": "sunrise-teodora",
+ "name": "Teodora",
+ "first": "Teodora",
+ "company": "Sunrise",
+ "site": "sunrise.ch · Mobile, internet and TV provider, Switzerland",
+ "logo": "sunrise-teodora_logo.png",
+ "shot": "sunrise-teodora_shot.jpg",
+ "headline": "Turn Sunrise’s usage data into subscriptions that stay.",
+ "saw": [
+  "Your homepage sells mobile, internet and TV plans, with discounts on devices and roaming, and every visitor sees the same offers, whatever their tariff, tenure or usage.",
+  "The signal you already own is how each customer uses their mobile data, roaming, home internet and TV content, and which add-ons they never touch. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns for mobile, internet and TV are built by hand, per segment, per month. The customer who is about to leave this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per customer, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the cancellation before it happens",
+   "text": "Churn signals per customer from data use, roaming trips and support contacts. The right offer, channel and moment, chosen for each subscriber across mobile, internet and TV.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next plan when it fits",
+   "text": "Next best plan or add-on per customer, such as a mobile data upgrade after heavy roaming, or TV content added to an internet plan. No more blanket upgrade mails.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the services in use, every week",
+   "text": "Personal TV and content nudges in email, push and on your homepage, orchestrated so every customer has a reason to use what they already pay for each week.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
