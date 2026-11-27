@@ -1,0 +1,38 @@
+{
+ "slug": "widere-espen",
+ "name": "Espen",
+ "first": "Espen",
+ "company": "Widerøe",
+ "site": "wideroe.no · Regional airline, Norway",
+ "logo": "widere-espen_logo.png",
+ "shot": "widere-espen_shot.jpg",
+ "headline": "Turn Widerøe’s booking data into repeat flights that stay.",
+ "saw": [
+  "Your homepage sells flight tickets to Norway and Europe, with date picking, a discount code field and a sale banner, and shows every visitor the same offer, whether they come for the fjords in Bergen or the northern lights in Tromsø.",
+  "Once someone has flown with you, the signal you already own is the booking and check-in history, the bags they add, the destinations they repeat and their Norwegian Reward membership. Today that signal sits in analytics, not in the message they receive.",
+  "Retention and cross-sell campaigns are built by hand, per segment, per month. The traveller who is about to stop flying with you this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per traveller, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the switch before the next booking",
+   "text": "Churn signals per traveller from booking gaps, lapsed Norwegian Reward membership and app use. The right offer, channel and moment, chosen for each person and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the right next trip",
+   "text": "Next best route, fare class or Widerøe Bisniss offer per traveller, triggered by where they actually fly. No more sale banner sent to people who booked last week.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep the app in use between trips",
+   "text": "Personal destination, check-in and app nudges per traveller, in app, push and email, timed to their travel dates. Every traveller gets a reason to open the Widerøe app again.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
