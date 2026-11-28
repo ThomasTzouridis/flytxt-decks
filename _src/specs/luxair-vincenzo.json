@@ -1,0 +1,38 @@
+{
+ "slug": "luxair-vincenzo",
+ "name": "Vincenzo",
+ "first": "Vincenzo",
+ "company": "Luxair",
+ "site": "luxair.lu · Airline and aviation, Luxembourg",
+ "logo": "luxair-vincenzo_logo.png",
+ "shot": "luxair-vincenzo_shot.jpg",
+ "headline": "Turn Luxair’s booking data into repeat trips that stay.",
+ "saw": [
+  "Your homepage leads with Black Friday deals, destinations of the month and holiday offers, and sells business class, car rental and family travel to every visitor the same way, whether they are a business traveller, a family or a weekend guest.",
+  "Once a customer has flown with you, which routes they book, when they travel with children and whether they use their rewards is your best signal for the next booking. Today that signal sits in analytics, not in the message the customer receives.",
+  "Cross-sell, upsell and retention campaigns, such as business class upgrades and rewards offers, are built by hand, per segment, per month. The customer who is about to stop flying this week gets the same offer as everyone else, or none at all."
+ ],
+ "help_intro": "Three places where an AI that decides per traveller, not per segment, pays for itself in the first quarter.",
+ "cases": [
+  {
+   "head": "Stop the lapse before it happens",
+   "text": "Lapse signals per traveller, from booking gaps, rewards activity and contact history. The right offer, channel and moment, picked for each person and tested continuously.",
+   "kpi": "28%",
+   "kpi_label": "lower churn, measured at Flytxt telecom clients"
+  },
+  {
+   "head": "Offer the next trip when it fits",
+   "text": "Next best fare, add-on or rewards offer per traveller, triggered by what they actually book. No more blanket mails to customers who already booked business class.",
+   "kpi": "+17%",
+   "kpi_label": "category subscriptions at an OTT client"
+  },
+  {
+   "head": "Keep every traveller planning the next trip",
+   "text": "Personal destination and holiday nudges in app, push and email, so every traveller sees a reason to open Luxair again between trips, not only when a promotion runs.",
+   "kpi": "+18%",
+   "kpi_label": "streaming activity at an OTT client"
+  }
+ ],
+ "call_url": "https://calendly.com/tanja-morsch-flytxt/30min",
+ "linkedin": "https://www.linkedin.com/in/tanja-morsch-weekone"
+}
